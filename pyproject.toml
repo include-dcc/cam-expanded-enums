@@ -14,8 +14,12 @@ readme = "README.md"
 requires-python = ">=3.10"
 dynamic = ["version"]
 
+[tool.hatch.metadata]
+allow-direct-references = true
+
 dependencies = [
   "linkml-runtime >=1.9.4",
+  "term-weaver@git+https://github.com/include-dcc/term-weaver.git"
 ]
 
 [dependency-groups]
@@ -26,6 +30,7 @@ dev = [
     "mkdocs-pymdownx-material-extras>=2.5.6",
     "jupyter>=1.0.0",
     "mknotebooks>= 0.8.0",
+    "rich"
 ]
 
 # See https://hatch.pypa.io/latest/config/build/#file-selection for how to
