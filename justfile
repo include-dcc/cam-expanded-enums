@@ -237,7 +237,7 @@ _gen-yaml:
   uv run gen-yaml {{source_schema_path}} > {{distrib_schema_path}}/{{schema_name}}.yaml
 
 # Overridable recipe to add project-specific artifacts to the distribution schema path
-_add-artifacts:
+_add-artifacts: _expand
 
 # Run documentation server
 _serve:
