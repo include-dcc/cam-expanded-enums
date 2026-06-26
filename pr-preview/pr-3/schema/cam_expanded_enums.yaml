@@ -12661,7 +12661,7 @@ classes:
     class_uri: cam:RequiredClass
 metamodel_version: 1.11.0
 source_file: cam_expanded_enums.yaml
-source_file_date: '2026-06-26T15:56:33'
+source_file_date: '2026-06-26T16:14:25'
 source_file_size: 2290
-generation_date: '2026-06-26T15:56:45'
+generation_date: '2026-06-26T16:14:35'
 
