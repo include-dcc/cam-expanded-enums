@@ -136,7 +136,7 @@ gen-python:
 
 # Generate project files including Python data model
 [group('model development')]
-gen-project:
+gen-project: _expand
   uv run gen-project {{config_yaml}} -d {{dest}} {{source_schema_path}}
   mkdir -p {{pymodel}}
   mv {{dest}}/*.py {{pymodel}}/

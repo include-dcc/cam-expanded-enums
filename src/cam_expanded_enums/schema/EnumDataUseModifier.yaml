@@ -1,0 +1,125 @@
+---
+id: https://includedcc.org/common-access-model/EnumDataUseModifier
+name: EnumDataUseModifier
+enums:
+  EnumDataUseModifier:
+    title: Data Use Modifier
+    description: Data Use Ontology (DUO) terms for data use modifiers.
+    reachable_from:
+      source_ontology: bioregistry:duo
+      source_nodes:
+        - DUO:0000017
+      is_direct: false
+      include_self: false
+      traverse_up: false
+      relationship_types:
+        - rdfs:subClassOf
+    permissible_values:
+      DUO:00000044:
+        text: DUO:00000044
+        description: This data use modifier indicates use for purposes of population,
+          origin, or ancestry research is prohibited.
+        title: population origins or ancestry research prohibited
+      DUO:0000012:
+        text: DUO:0000012
+        description: This data use modifier indicates that use is limited to studies
+          of a certain research type.
+        title: research specific restrictions
+      DUO:0000015:
+        text: DUO:0000015
+        description: This data use modifier indicates that use does not allow methods
+          development research (e.g., development of software or algorithms).
+        title: no general methods research
+      DUO:0000016:
+        text: DUO:0000016
+        description: This data use modifier indicates that use is limited to genetic
+          studies only (i.e., studies that include genotype research alone or both
+          genotype and phenotype research, but not phenotype research exclusively)
+        title: genetic studies only
+      DUO:0000018:
+        text: DUO:0000018
+        description: This data use modifier indicates that use of the data is limited
+          to not-for-profit organizations and not-for-profit use, non-commercial use.
+        title: not for profit, non commercial use only
+      DUO:0000019:
+        text: DUO:0000019
+        description: This data use modifier indicates that requestor agrees to make
+          results of studies using the data available to the larger scientific community.
+        title: publication required
+      DUO:0000020:
+        text: DUO:0000020
+        description: 'This could be coupled with a string describing the primary study
+          investigator(s).
+
+          This data use modifier indicates that the requestor must agree to collaboration
+          with the primary study investigator(s).'
+        title: collaboration required
+      DUO:0000021:
+        text: DUO:0000021
+        description: This data use modifier indicates that the requestor must provide
+          documentation of local IRB/ERB approval.
+        title: ethics approval required
+      DUO:0000022:
+        text: DUO:0000022
+        description: 'This data use modifier indicates that use is limited to within
+          a specific geographic region.
+
+          This should be coupled with an ontology term describing the geographical
+          location the restriction applies to.'
+        title: geographical restriction
+      DUO:0000024:
+        text: DUO:0000024
+        description: 'This data use modifier indicates that requestor agrees not to
+          publish results of studies until a specific date.
+
+          This should be coupled with a date specified as ISO8601'
+        title: publication moratorium
+      DUO:0000025:
+        text: DUO:0000025
+        description: 'This data use modifier indicates that use is approved for a
+          specific number of months.
+
+          This should be coupled with an integer value indicating the number of months.'
+        title: time limit on use
+      DUO:0000026:
+        text: DUO:0000026
+        description: This data use modifier indicates that use is limited to use by
+          approved users.
+        title: user specific restriction
+      DUO:0000027:
+        text: DUO:0000027
+        description: This data use modifier indicates that use is limited to use within
+          an approved project.
+        title: project specific restriction
+      DUO:0000028:
+        text: DUO:0000028
+        description: This data use modifier indicates that use is limited to use within
+          an approved institution.
+        title: institution specific restriction
+      DUO:0000029:
+        text: DUO:0000029
+        description: This data use modifier indicates that the requestor must return
+          derived/enriched data to the database/resource.
+        title: return to database or resource
+      DUO:0000043:
+        text: DUO:0000043
+        description: 'Clinical Care is defined as Health care or services provided
+          at home, in a healthcare facility or hospital. Data may be used for clinical
+          decision making.
+
+          This data use modifier indicates that use is allowed for clinical use and
+          care.'
+        title: clinical care use
+      DUO:0000045:
+        text: DUO:0000045
+        description: This data use modifier indicates that use of the data is limited
+          to not-for-profit organizations.
+        title: not for profit organisation use only
+      DUO:0000046:
+        text: DUO:0000046
+        description: 'This data use modifier indicates that use of the data is limited
+          to not-for-profit use.
+
+          This indicates that data can be used by commercial organisations for research
+          purposes, but not commercial purposes.'
+        title: non-commercial use only

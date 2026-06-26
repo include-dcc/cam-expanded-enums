@@ -11,7 +11,7 @@ authors = [
 license = "MIT"
 license-files = ["LICENSE"]
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.12"
 dynamic = ["version"]
 
 [tool.hatch.metadata]
@@ -19,11 +19,11 @@ allow-direct-references = true
 
 dependencies = [
   "linkml-runtime >=1.9.4",
-  "term-weaver@git+https://github.com/include-dcc/term-weaver.git"
 ]
 
 [dependency-groups]
 dev = [
+    "term-weaver@git+https://github.com/include-dcc/term-weaver.git",
     "linkml>=1.9.3",
     "mkdocs-material>=8.2.8",
     "mkdocs-mermaid2-plugin>=1.1.1",
