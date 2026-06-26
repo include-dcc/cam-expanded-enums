@@ -237,6 +237,9 @@ css = [
 [[package]]
 name = "cam-expanded-enums"
 source = { editable = "." }
+dependencies = [
+    { name = "term-weaver" },
+]
 
 [package.dev-dependencies]
 dev = [
@@ -247,10 +250,10 @@ dev = [
     { name = "mkdocs-pymdownx-material-extras" },
     { name = "mknotebooks" },
     { name = "rich" },
-    { name = "term-weaver" },
 ]
 
 [package.metadata]
+requires-dist = [{ name = "term-weaver", git = "https://github.com/include-dcc/term-weaver.git" }]
 
 [package.metadata.requires-dev]
 dev = [
@@ -261,7 +264,6 @@ dev = [
     { name = "mkdocs-pymdownx-material-extras", specifier = ">=2.5.6" },
     { name = "mknotebooks", specifier = ">=0.8.0" },
     { name = "rich" },
-    { name = "term-weaver", git = "https://github.com/include-dcc/term-weaver.git" },
 ]
 
 [[package]]
