@@ -55,7 +55,7 @@ jobs:
           uv tool install rust-just
 
       - name: Install dependencies
-        run: uv sync --dev --no-progress
+        run: uv sync --dev --group dev --no-progress
 
       - name: Build documentation
         run: |
