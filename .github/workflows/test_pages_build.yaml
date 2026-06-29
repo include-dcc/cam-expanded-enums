@@ -55,11 +55,11 @@ jobs:
           uv tool install rust-just
 
       - name: Install dependencies
-        run: uv sync --dev --group dev --no-progress
+        run: uv sync --dev --frozen --no-progress
 
       - name: Build documentation
         run: |
-          just gen-doc
+          uv run just gen-doc
           uv run mkdocs build -d site
           touch site/.nojekyll
 
