@@ -924,22 +924,22 @@ enums:
       not_suspected:
         text: not_suspected
         description: Not suspected
-        meaning: snomed_ct:428263003
+        meaning: snomedct:428263003
         title: not-suspected
       suspected:
         text: suspected
         description: Suspected
-        meaning: snomed_ct:415684004
+        meaning: snomedct:415684004
         title: suspected
       known_present:
         text: known_present
         description: Known Present
-        meaning: snomed_ct:410515003
+        meaning: snomedct:410515003
         title: known-present
       unknown:
         text: unknown
         description: Unknown
-        meaning: snomed_ct:261665006
+        meaning: snomedct:261665006
         title: unknown
   EnumAssertionProvenance:
     name: EnumAssertionProvenance
@@ -12664,7 +12664,7 @@ classes:
     class_uri: cam:RequiredClass
 metamodel_version: 1.11.0
 source_file: cam_expanded_enums.yaml
-source_file_date: '2026-06-29T20:20:54'
+source_file_date: '2026-07-01T16:31:14'
 source_file_size: 2322
-generation_date: '2026-06-29T20:21:05'
+generation_date: '2026-07-01T16:31:26'
 
