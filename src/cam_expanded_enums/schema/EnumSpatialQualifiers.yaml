@@ -21,3114 +21,2341 @@ enums:
         - rdfs:subClassOf
     permissible_values:
       snomedct:106233006:
-        text: snomedct:106233006
-        description: Topographical modifier (qualifier value)
         title: Topographical modifier (qualifier value)
+        description: Topographical modifier (qualifier value)
+        meaning: snomedct:106233006
       snomedct:103339001:
-        text: snomedct:103339001
-        description: ''
         title: Long axis
+        meaning: snomedct:103339001
       snomedct:103340004:
-        text: snomedct:103340004
-        description: ''
         title: Short axis
+        meaning: snomedct:103340004
       snomedct:103341000:
-        text: snomedct:103341000
-        description: ''
         title: Off axis
+        meaning: snomedct:103341000
       snomedct:103342007:
-        text: snomedct:103342007
-        description: ''
         title: Mid-longitudinal
+        meaning: snomedct:103342007
       snomedct:103343002:
-        text: snomedct:103343002
-        description: ''
         title: Parasagittal
+        meaning: snomedct:103343002
       snomedct:103344008:
-        text: snomedct:103344008
-        description: ''
         title: Transvesical
+        meaning: snomedct:103344008
       snomedct:103345009:
-        text: snomedct:103345009
-        description: ''
         title: Transthecal
+        meaning: snomedct:103345009
       snomedct:103346005:
-        text: snomedct:103346005
-        description: ''
         title: Transsplenic
+        meaning: snomedct:103346005
       snomedct:103347001:
-        text: snomedct:103347001
-        description: ''
         title: Transrenal
+        meaning: snomedct:103347001
       snomedct:103348006:
-        text: snomedct:103348006
-        description: ''
         title: Transpleural
+        meaning: snomedct:103348006
       snomedct:103349003:
-        text: snomedct:103349003
-        description: ''
         title: Transpancreatic
+        meaning: snomedct:103349003
       snomedct:103353001:
-        text: snomedct:103353001
-        description: ''
         title: Transgastric
+        meaning: snomedct:103353001
       snomedct:103354007:
-        text: snomedct:103354007
-        description: ''
         title: Transmural
+        meaning: snomedct:103354007
       snomedct:11070000:
-        text: snomedct:11070000
-        description: ''
         title: Capsular
+        meaning: snomedct:11070000
       snomedct:1146002:
-        text: snomedct:1146002
-        description: ''
         title: Arcuate
+        meaning: snomedct:1146002
       snomedct:11896004:
-        text: snomedct:11896004
-        description: ''
         title: Intermediate
+        meaning: snomedct:11896004
       snomedct:1217011006:
-        text: snomedct:1217011006
-        description: ''
         title: Non-adjacent
+        meaning: snomedct:1217011006
       snomedct:131183008:
-        text: snomedct:131183008
-        description: ''
         title: Intra-articular
+        meaning: snomedct:131183008
       snomedct:131184002:
-        text: snomedct:131184002
-        description: ''
         title: Area of defined region
+        meaning: snomedct:131184002
       snomedct:131185001:
-        text: snomedct:131185001
-        description: ''
         title: Vertical long axis
+        meaning: snomedct:131185001
       snomedct:131186000:
-        text: snomedct:131186000
-        description: ''
         title: Horizontal long axis
+        meaning: snomedct:131186000
       snomedct:131187009:
-        text: snomedct:131187009
-        description: ''
         title: Major Axis
+        meaning: snomedct:131187009
       snomedct:131188004:
-        text: snomedct:131188004
-        description: ''
         title: Minor Axis
+        meaning: snomedct:131188004
       snomedct:131189007:
-        text: snomedct:131189007
-        description: ''
         title: Perpendicular axis
+        meaning: snomedct:131189007
       snomedct:131190003:
-        text: snomedct:131190003
-        description: ''
         title: Radius
+        meaning: snomedct:131190003
       snomedct:131191004:
-        text: snomedct:131191004
-        description: ''
         title: Perimeter
+        meaning: snomedct:131191004
       snomedct:14414005:
-        text: snomedct:14414005
-        description: ''
         title: Peripheral
+        meaning: snomedct:14414005
       snomedct:1483009:
-        text: snomedct:1483009
-        description: ''
         title: Angular
+        meaning: snomedct:1483009
       snomedct:18769003:
-        text: snomedct:18769003
-        description: ''
         title: Juxta-posed
+        meaning: snomedct:18769003
       snomedct:21006006:
-        text: snomedct:21006006
-        description: ''
         title: Hemispheric
+        meaning: snomedct:21006006
       snomedct:21481007:
-        text: snomedct:21481007
-        description: ''
         title: Over
+        meaning: snomedct:21481007
       snomedct:24020000:
-        text: snomedct:24020000
-        description: ''
         title: Horizontal
+        meaning: snomedct:24020000
       snomedct:24028007:
-        text: snomedct:24028007
-        description: Right (qualifier value)
         title: Right (qualifier value)
+        description: Right (qualifier value)
+        meaning: snomedct:24028007
       snomedct:24422004:
-        text: snomedct:24422004
-        description: ''
         title: Axial
+        meaning: snomedct:24422004
       snomedct:255527003:
-        text: snomedct:255527003
-        description: ''
         title: Horizontal - 3 and 9
+        meaning: snomedct:255527003
       snomedct:255528008:
-        text: snomedct:255528008
-        description: ''
         title: Horizontal and vertical
+        meaning: snomedct:255528008
       snomedct:261129000:
-        text: snomedct:261129000
-        description: ''
         title: Mediolateral
+        meaning: snomedct:261129000
       snomedct:26216008:
-        text: snomedct:26216008
-        description: ''
         title: Central
+        meaning: snomedct:26216008
       snomedct:26283006:
-        text: snomedct:26283006
-        description: ''
         title: Superficial
+        meaning: snomedct:26283006
       snomedct:263687007:
-        text: snomedct:263687007
-        description: ''
         title: Bony extra-articular
+        meaning: snomedct:263687007
       snomedct:263688002:
-        text: snomedct:263688002
-        description: ''
         title: Bony intra-articular
+        meaning: snomedct:263688002
       snomedct:264731004:
-        text: snomedct:264731004
-        description: ''
         title: Lateral to the left
+        meaning: snomedct:264731004
       snomedct:264732006:
-        text: snomedct:264732006
-        description: ''
         title: Lateral to the right
+        meaning: snomedct:264732006
       snomedct:264733001:
-        text: snomedct:264733001
-        description: ''
         title: Linear longitudinal
+        meaning: snomedct:264733001
       snomedct:264737000:
-        text: snomedct:264737000
-        description: ''
         title: Linear transverse
+        meaning: snomedct:264737000
       snomedct:264741001:
-        text: snomedct:264741001
-        description: ''
         title: Posterolateral to the left
+        meaning: snomedct:264741001
       snomedct:264742008:
-        text: snomedct:264742008
-        description: ''
         title: Posterolateral to the right
+        meaning: snomedct:264742008
       snomedct:264839005:
-        text: snomedct:264839005
-        description: ''
         title: Horizontal cleavage
+        meaning: snomedct:264839005
       snomedct:27237009:
-        text: snomedct:27237009
-        description: ''
         title: Triangular
+        meaning: snomedct:27237009
       snomedct:28241006:
-        text: snomedct:28241006
-        description: ''
         title: Rhomboid
+        meaning: snomedct:28241006
       snomedct:28947002:
-        text: snomedct:28947002
-        description: ''
         title: Right curve
+        meaning: snomedct:28947002
       snomedct:30730003:
-        text: snomedct:30730003
-        description: ''
         title: Sagittal
+        meaning: snomedct:30730003
       snomedct:30899007:
-        text: snomedct:30899007
-        description: ''
         title: Quadrangular
+        meaning: snomedct:30899007
       snomedct:32381004:
-        text: snomedct:32381004
-        description: ''
         title: Portal
+        meaning: snomedct:32381004
       snomedct:32400000:
-        text: snomedct:32400000
-        description: ''
         title: Preaxial
+        meaning: snomedct:32400000
       snomedct:33096000:
-        text: snomedct:33096000
-        description: ''
         title: Vertical
+        meaning: snomedct:33096000
       snomedct:33843005:
-        text: snomedct:33843005
-        description: ''
         title: Efferent
+        meaning: snomedct:33843005
       snomedct:350722008:
-        text: snomedct:350722008
-        description: ''
         title: Behind
+        meaning: snomedct:350722008
       snomedct:351726001:
-        text: snomedct:351726001
-        description: ''
         title: Below
+        meaning: snomedct:351726001
       snomedct:352730000:
-        text: snomedct:352730000
-        description: ''
         title: Supra-
+        meaning: snomedct:352730000
       snomedct:353734004:
-        text: snomedct:353734004
-        description: ''
         title: Upward
+        meaning: snomedct:353734004
       snomedct:354652004:
-        text: snomedct:354652004
-        description: ''
         title: Circular
+        meaning: snomedct:354652004
       snomedct:355648006:
-        text: snomedct:355648006
-        description: ''
         title: Surrounding
+        meaning: snomedct:355648006
       snomedct:37197008:
-        text: snomedct:37197008
-        description: ''
         title: Anterolateral
+        meaning: snomedct:37197008
       snomedct:38717003:
-        text: snomedct:38717003
-        description: ''
         title: Longitudinal
+        meaning: snomedct:38717003
       snomedct:39187007:
-        text: snomedct:39187007
-        description: ''
         title: Bent
+        meaning: snomedct:39187007
       snomedct:40415009:
-        text: snomedct:40415009
-        description: ''
         title: Proximal
+        meaning: snomedct:40415009
       snomedct:410674003:
-        text: snomedct:410674003
-        description: ''
         title: Regional
+        meaning: snomedct:410674003
       snomedct:410679008:
-        text: snomedct:410679008
-        description: ''
         title: Surface
+        meaning: snomedct:410679008
       snomedct:42798000:
-        text: snomedct:42798000
-        description: ''
         title: Area
+        meaning: snomedct:42798000
       snomedct:43674008:
-        text: snomedct:43674008
-        description: ''
         title: Apical
+        meaning: snomedct:43674008
       snomedct:45226003:
-        text: snomedct:45226003
-        description: ''
         title: Cylindrical
+        meaning: snomedct:45226003
       snomedct:46053002:
-        text: snomedct:46053002
-        description: ''
         title: Distal
+        meaning: snomedct:46053002
       snomedct:47021000:
-        text: snomedct:47021000
-        description: ''
         title: Left curve
+        meaning: snomedct:47021000
       snomedct:49370004:
-        text: snomedct:49370004
-        description: ''
         title: Lateral
+        meaning: snomedct:49370004
       snomedct:49530007:
-        text: snomedct:49530007
-        description: ''
         title: Afferent
+        meaning: snomedct:49530007
       snomedct:50009006:
-        text: snomedct:50009006
-        description: ''
         title: Linear
+        meaning: snomedct:50009006
       snomedct:50362007:
-        text: snomedct:50362007
-        description: ''
         title: Stellate
+        meaning: snomedct:50362007
       snomedct:50974003:
-        text: snomedct:50974003
-        description: ''
         title: Junctional
+        meaning: snomedct:50974003
       snomedct:51440002:
-        text: snomedct:51440002
-        description: ''
         title: Right and left
+        meaning: snomedct:51440002
       snomedct:5686001:
-        text: snomedct:5686001
-        description: ''
         title: Remote
+        meaning: snomedct:5686001
       snomedct:56924007:
-        text: snomedct:56924007
-        description: ''
         title: Square
+        meaning: snomedct:56924007
       snomedct:57183005:
-        text: snomedct:57183005
-        description: ''
         title: Along edge
+        meaning: snomedct:57183005
       snomedct:57195005:
-        text: snomedct:57195005
-        description: ''
         title: Basal
+        meaning: snomedct:57195005
       snomedct:59410002:
-        text: snomedct:59410002
-        description: ''
         title: Rectangular
+        meaning: snomedct:59410002
       snomedct:60301000:
-        text: snomedct:60301000
-        description: ''
         title: Curved
+        meaning: snomedct:60301000
       snomedct:60583000:
-        text: snomedct:60583000
-        description: ''
         title: Postaxial
+        meaning: snomedct:60583000
       snomedct:61397002:
-        text: snomedct:61397002
-        description: ''
         title: Subcapsular
+        meaning: snomedct:61397002
       snomedct:62083003:
-        text: snomedct:62083003
-        description: ''
         title: Sectional
+        meaning: snomedct:62083003
       snomedct:62372003:
-        text: snomedct:62372003
-        description: ''
         title: Segmental
+        meaning: snomedct:62372003
       snomedct:62824007:
-        text: snomedct:62824007
-        description: ''
         title: Transverse
+        meaning: snomedct:62824007
       snomedct:66787007:
-        text: snomedct:66787007
-        description: ''
         title: Cephalic
+        meaning: snomedct:66787007
       snomedct:68493006:
-        text: snomedct:68493006
-        description: ''
         title: Gutter
+        meaning: snomedct:68493006
       snomedct:69320009:
-        text: snomedct:69320009
-        description: ''
         title: Extracellular
+        meaning: snomedct:69320009
       snomedct:69389007:
-        text: snomedct:69389007
-        description: ''
         title: Saccular
+        meaning: snomedct:69389007
       snomedct:710097009:
-        text: snomedct:710097009
-        description: ''
         title: Incisal
+        meaning: snomedct:710097009
       snomedct:710098004:
-        text: snomedct:710098004
-        description: ''
         title: Occlusal
+        meaning: snomedct:710098004
       snomedct:710099007:
-        text: snomedct:710099007
-        description: ''
         title: Mesial
+        meaning: snomedct:710099007
       snomedct:7771000:
-        text: snomedct:7771000
-        description: Left (qualifier value)
         title: Left (qualifier value)
+        description: Left (qualifier value)
+        meaning: snomedct:7771000
       snomedct:795002:
-        text: snomedct:795002
-        description: ''
         title: Deep
+        meaning: snomedct:795002
       snomedct:81654009:
-        text: snomedct:81654009
-        description: ''
         title: Coronal
+        meaning: snomedct:81654009
       snomedct:83167003:
-        text: snomedct:83167003
-        description: ''
         title: Intracellular
+        meaning: snomedct:83167003
       snomedct:84177009:
-        text: snomedct:84177009
-        description: ''
         title: Straddling
+        meaning: snomedct:84177009
       snomedct:87687004:
-        text: snomedct:87687004
-        description: ''
         title: Extra-articular
+        meaning: snomedct:87687004
       snomedct:90069004:
-        text: snomedct:90069004
-        description: ''
         title: Posterolateral
+        meaning: snomedct:90069004
       snomedct:272424004:
-        text: snomedct:272424004
-        description: Relative sites (qualifier value)
         title: Relative sites (qualifier value)
+        description: Relative sites (qualifier value)
+        meaning: snomedct:272424004
       snomedct:112233002:
-        text: snomedct:112233002
-        description: ''
         title: Marginal
+        meaning: snomedct:112233002
       snomedct:1197041002:
-        text: snomedct:1197041002
-        description: ''
         title: Intercostal
+        meaning: snomedct:1197041002
       snomedct:1285325005:
-        text: snomedct:1285325005
-        description: ''
         title: Intralobular
+        meaning: snomedct:1285325005
       snomedct:128590009:
-        text: snomedct:128590009
-        description: ''
         title: Anatomical reference point of right atrium
+        meaning: snomedct:128590009
       snomedct:1362012009:
-        text: snomedct:1362012009
-        description: ''
         title: Inlet projection
+        meaning: snomedct:1362012009
       snomedct:1363295008:
-        text: snomedct:1363295008
-        description: ''
         title: Unilobar
+        meaning: snomedct:1363295008
       snomedct:1363296009:
-        text: snomedct:1363296009
-        description: ''
         title: Ipsilateral multilobar
+        meaning: snomedct:1363296009
       snomedct:182353008:
-        text: snomedct:182353008
-        description: ''
         title: Side
+        meaning: snomedct:182353008
       snomedct:225780003:
-        text: snomedct:225780003
-        description: ''
         title: Sublingual
+        meaning: snomedct:225780003
       snomedct:229801003:
-        text: snomedct:229801003
-        description: ''
         title: Intra-arterial
+        meaning: snomedct:229801003
       snomedct:255208005:
-        text: snomedct:255208005
-        description: ''
         title: Ipsilateral
+        meaning: snomedct:255208005
       snomedct:255209002:
-        text: snomedct:255209002
-        description: ''
         title: Contralateral
+        meaning: snomedct:255209002
       snomedct:255348000:
-        text: snomedct:255348000
-        description: ''
         title: Inframammary
+        meaning: snomedct:255348000
       snomedct:255472009:
-        text: snomedct:255472009
-        description: ''
         title: Panretinal
+        meaning: snomedct:255472009
       snomedct:255482005:
-        text: snomedct:255482005
-        description: ''
         title: Left upper segment
+        meaning: snomedct:255482005
       snomedct:255486008:
-        text: snomedct:255486008
-        description: ''
         title: Lower segment
+        meaning: snomedct:255486008
       snomedct:255496004:
-        text: snomedct:255496004
-        description: ''
         title: Right lower segment
+        meaning: snomedct:255496004
       snomedct:255499006:
-        text: snomedct:255499006
-        description: ''
         title: Right upper segment
+        meaning: snomedct:255499006
       snomedct:255501003:
-        text: snomedct:255501003
-        description: ''
         title: Upper segment
+        meaning: snomedct:255501003
       snomedct:255546002:
-        text: snomedct:255546002
-        description: ''
         title: Underlay
+        meaning: snomedct:255546002
       snomedct:255547006:
-        text: snomedct:255547006
-        description: ''
         title: Overlay
+        meaning: snomedct:255547006
       snomedct:255548001:
-        text: snomedct:255548001
-        description: ''
         title: Sandwich graft
+        meaning: snomedct:255548001
       snomedct:255549009:
-        text: snomedct:255549009
-        description: ''
         title: Anterior
+        meaning: snomedct:255549009
       snomedct:255550009:
-        text: snomedct:255550009
-        description: ''
         title: Anterior to epiglottis
+        meaning: snomedct:255550009
       snomedct:255551008:
-        text: snomedct:255551008
-        description: ''
         title: Posterior
+        meaning: snomedct:255551008
       snomedct:255552001:
-        text: snomedct:255552001
-        description: ''
         title: Posterior to epiglottis
+        meaning: snomedct:255552001
       snomedct:255554000:
-        text: snomedct:255554000
-        description: ''
         title: Dorsal
+        meaning: snomedct:255554000
       snomedct:255557007:
-        text: snomedct:255557007
-        description: ''
         title: Intracerebral
+        meaning: snomedct:255557007
       snomedct:255558002:
-        text: snomedct:255558002
-        description: ''
         title: Intragastric
+        meaning: snomedct:255558002
       snomedct:255559005:
-        text: snomedct:255559005
-        description: ''
         title: Intramuscular
+        meaning: snomedct:255559005
       snomedct:255560000:
-        text: snomedct:255560000
-        description: ''
         title: Intravenous
+        meaning: snomedct:255560000
       snomedct:255561001:
-        text: snomedct:255561001
-        description: ''
         title: Medial
+        meaning: snomedct:255561001
       snomedct:255562008:
-        text: snomedct:255562008
-        description: ''
         title: Mid
+        meaning: snomedct:255562008
       snomedct:255563003:
-        text: snomedct:255563003
-        description: ''
         title: Mid-zone
+        meaning: snomedct:255563003
       snomedct:255564009:
-        text: snomedct:255564009
-        description: ''
         title: Perivascular
+        meaning: snomedct:255564009
       snomedct:255565005:
-        text: snomedct:255565005
-        description: ''
         title: Peripapillary
+        meaning: snomedct:255565005
       snomedct:255567002:
-        text: snomedct:255567002
-        description: ''
         title: Postauricular
+        meaning: snomedct:255567002
       snomedct:255568007:
-        text: snomedct:255568007
-        description: ''
         title: Retrosternal
+        meaning: snomedct:255568007
       snomedct:255569004:
-        text: snomedct:255569004
-        description: ''
         title: Suprasternal
+        meaning: snomedct:255569004
       snomedct:255579002:
-        text: snomedct:255579002
-        description: ''
         title: Palatal-lingual
+        meaning: snomedct:255579002
       snomedct:255584008:
-        text: snomedct:255584008
-        description: ''
         title: Septal
+        meaning: snomedct:255584008
       snomedct:255690001:
-        text: snomedct:255690001
-        description: ''
         title: Drug in contact with skin
+        meaning: snomedct:255690001
       snomedct:258186003:
-        text: snomedct:258186003
-        description: ''
         title: Via collaterals
+        meaning: snomedct:258186003
       snomedct:258187007:
-        text: snomedct:258187007
-        description: ''
         title: Via native vessel - graft impaired
+        meaning: snomedct:258187007
       snomedct:258188002:
-        text: snomedct:258188002
-        description: ''
         title: Via native vessel - graft occluded
+        meaning: snomedct:258188002
       snomedct:258189005:
-        text: snomedct:258189005
-        description: ''
         title: Via skip graft
+        meaning: snomedct:258189005
       snomedct:258329003:
-        text: snomedct:258329003
-        description: ''
         title: Supratentorial
+        meaning: snomedct:258329003
       snomedct:258330008:
-        text: snomedct:258330008
-        description: ''
         title: Infratentorial
+        meaning: snomedct:258330008
       snomedct:260240005:
-        text: snomedct:260240005
-        description: ''
         title: Interdental
+        meaning: snomedct:260240005
       snomedct:260318004:
-        text: snomedct:260318004
-        description: ''
         title: 1 o'clock position
+        meaning: snomedct:260318004
       snomedct:260319007:
-        text: snomedct:260319007
-        description: ''
         title: 1.30 o'clock position
+        meaning: snomedct:260319007
       snomedct:260322009:
-        text: snomedct:260322009
-        description: ''
         title: 10 o'clock position
+        meaning: snomedct:260322009
       snomedct:260323004:
-        text: snomedct:260323004
-        description: ''
         title: 10.30 o'clock position
+        meaning: snomedct:260323004
       snomedct:260324005:
-        text: snomedct:260324005
-        description: ''
         title: 11 o'clock position
+        meaning: snomedct:260324005
       snomedct:260325006:
-        text: snomedct:260325006
-        description: ''
         title: 11.30 o'clock position
+        meaning: snomedct:260325006
       snomedct:260326007:
-        text: snomedct:260326007
-        description: ''
         title: 12 o'clock position
+        meaning: snomedct:260326007
       snomedct:260327003:
-        text: snomedct:260327003
-        description: ''
         title: 12.30 o'clock position
+        meaning: snomedct:260327003
       snomedct:260328008:
-        text: snomedct:260328008
-        description: ''
         title: 2 o'clock position
+        meaning: snomedct:260328008
       snomedct:260329000:
-        text: snomedct:260329000
-        description: ''
         title: 2.30 o'clock position
+        meaning: snomedct:260329000
       snomedct:260330005:
-        text: snomedct:260330005
-        description: ''
         title: 3 o'clock position
+        meaning: snomedct:260330005
       snomedct:260331009:
-        text: snomedct:260331009
-        description: ''
         title: 3.30 o'clock position
+        meaning: snomedct:260331009
       snomedct:260333007:
-        text: snomedct:260333007
-        description: ''
         title: 4 o'clock position
+        meaning: snomedct:260333007
       snomedct:260334001:
-        text: snomedct:260334001
-        description: ''
         title: 4.30 o'clock position
+        meaning: snomedct:260334001
       snomedct:260335000:
-        text: snomedct:260335000
-        description: ''
         title: 5 o'clock position
+        meaning: snomedct:260335000
       snomedct:260336004:
-        text: snomedct:260336004
-        description: ''
         title: 5.30 o'clock position
+        meaning: snomedct:260336004
       snomedct:260337008:
-        text: snomedct:260337008
-        description: ''
         title: 6 o'clock position
+        meaning: snomedct:260337008
       snomedct:260338003:
-        text: snomedct:260338003
-        description: ''
         title: 6.30 o'clock position
+        meaning: snomedct:260338003
       snomedct:260339006:
-        text: snomedct:260339006
-        description: ''
         title: 7 o'clock position
+        meaning: snomedct:260339006
       snomedct:260340008:
-        text: snomedct:260340008
-        description: ''
         title: 7.30 o'clock position
+        meaning: snomedct:260340008
       snomedct:260341007:
-        text: snomedct:260341007
-        description: ''
         title: 8 o'clock position
+        meaning: snomedct:260341007
       snomedct:260342000:
-        text: snomedct:260342000
-        description: ''
         title: 8.30 o'clock position
+        meaning: snomedct:260342000
       snomedct:260343005:
-        text: snomedct:260343005
-        description: ''
         title: 9 o'clock position
+        meaning: snomedct:260343005
       snomedct:260344004:
-        text: snomedct:260344004
-        description: ''
         title: 9.30 o'clock position
+        meaning: snomedct:260344004
       snomedct:260419006:
-        text: snomedct:260419006
-        description: ''
         title: Projection
+        meaning: snomedct:260419006
       snomedct:260421001:
-        text: snomedct:260421001
-        description: ''
         title: Left lateral oblique
+        meaning: snomedct:260421001
       snomedct:260422008:
-        text: snomedct:260422008
-        description: ''
         title: C1-C2 left oblique
+        meaning: snomedct:260422008
       snomedct:260424009:
-        text: snomedct:260424009
-        description: ''
         title: Right lateral oblique
+        meaning: snomedct:260424009
       snomedct:260425005:
-        text: snomedct:260425005
-        description: ''
         title: C1-C2 right oblique
+        meaning: snomedct:260425005
       snomedct:260426006:
-        text: snomedct:260426006
-        description: ''
         title: Medial oblique
+        meaning: snomedct:260426006
       snomedct:260427002:
-        text: snomedct:260427002
-        description: ''
         title: Oblique lateral
+        meaning: snomedct:260427002
       snomedct:260428007:
-        text: snomedct:260428007
-        description: ''
         title: Mandible X-ray - lateral oblique
+        meaning: snomedct:260428007
       snomedct:260430009:
-        text: snomedct:260430009
-        description: ''
         title: Anteroposterior left lateral decubitus
+        meaning: snomedct:260430009
       snomedct:260431008:
-        text: snomedct:260431008
-        description: ''
         title: C1-C2 left lateral
+        meaning: snomedct:260431008
       snomedct:260432001:
-        text: snomedct:260432001
-        description: ''
         title: Left true lateral
+        meaning: snomedct:260432001
       snomedct:260434000:
-        text: snomedct:260434000
-        description: ''
         title: Anteroposterior right lateral decubitus
+        meaning: snomedct:260434000
       snomedct:260435004:
-        text: snomedct:260435004
-        description: ''
         title: C1-C2 right lateral
+        meaning: snomedct:260435004
       snomedct:260436003:
-        text: snomedct:260436003
-        description: ''
         title: Right true lateral
+        meaning: snomedct:260436003
       snomedct:260437007:
-        text: snomedct:260437007
-        description: ''
         title: Lateral vertical beam
+        meaning: snomedct:260437007
       snomedct:260438002:
-        text: snomedct:260438002
-        description: ''
         title: Lateral horizontal beam
+        meaning: snomedct:260438002
       snomedct:260439005:
-        text: snomedct:260439005
-        description: ''
         title: Lateral inverted
+        meaning: snomedct:260439005
       snomedct:260440007:
-        text: snomedct:260440007
-        description: ''
         title: True lateral of mandible
+        meaning: snomedct:260440007
       snomedct:260441006:
-        text: snomedct:260441006
-        description: ''
         title: Frog lateral
+        meaning: snomedct:260441006
       snomedct:260442004:
-        text: snomedct:260442004
-        description: ''
         title: Erect lateral
+        meaning: snomedct:260442004
       snomedct:260443009:
-        text: snomedct:260443009
-        description: ''
         title: Anteroposterior inverted
+        meaning: snomedct:260443009
       snomedct:260444003:
-        text: snomedct:260444003
-        description: ''
         title: Rotated posteroanterior
+        meaning: snomedct:260444003
       snomedct:260445002:
-        text: snomedct:260445002
-        description: ''
         title: Posteroanterior 20 degree
+        meaning: snomedct:260445002
       snomedct:260446001:
-        text: snomedct:260446001
-        description: ''
         title: Posteroanterior in ulnar deviation
+        meaning: snomedct:260446001
       snomedct:260447005:
-        text: snomedct:260447005
-        description: ''
         title: Penetrated posteroanterior
+        meaning: snomedct:260447005
       snomedct:260450008:
-        text: snomedct:260450008
-        description: ''
         title: Lordotic projection
+        meaning: snomedct:260450008
       snomedct:260451007:
-        text: snomedct:260451007
-        description: ''
         title: Supine decubitus
+        meaning: snomedct:260451007
       snomedct:260452000:
-        text: snomedct:260452000
-        description: ''
         title: Decubitus
+        meaning: snomedct:260452000
       snomedct:260453005:
-        text: snomedct:260453005
-        description: ''
         title: Internal/external rotation
+        meaning: snomedct:260453005
       snomedct:260454004:
-        text: snomedct:260454004
-        description: ''
         title: 45 degree projection
+        meaning: snomedct:260454004
       snomedct:260455003:
-        text: snomedct:260455003
-        description: ''
         title: Head and neck projection
+        meaning: snomedct:260455003
       snomedct:260458001:
-        text: snomedct:260458001
-        description: ''
         title: Slit Towne's
+        meaning: snomedct:260458001
       snomedct:260459009:
-        text: snomedct:260459009
-        description: ''
         title: Reverse Towne's
+        meaning: snomedct:260459009
       snomedct:260460004:
-        text: snomedct:260460004
-        description: ''
         title: Slit 35 degree fronto-occipital
+        meaning: snomedct:260460004
       snomedct:260461000:
-        text: snomedct:260461000
-        description: ''
         title: Vertex projection
+        meaning: snomedct:260461000
       snomedct:260463002:
-        text: snomedct:260463002
-        description: ''
         title: Left Stenver's
+        meaning: snomedct:260463002
       snomedct:260464008:
-        text: snomedct:260464008
-        description: ''
         title: Right Stenver's
+        meaning: snomedct:260464008
       snomedct:260465009:
-        text: snomedct:260465009
-        description: ''
         title: Occipitofrontal projection
+        meaning: snomedct:260465009
       snomedct:260466005:
-        text: snomedct:260466005
-        description: ''
         title: Occipitomental projection
+        meaning: snomedct:260466005
       snomedct:260467001:
-        text: snomedct:260467001
-        description: ''
         title: Occipitomental - erect
+        meaning: snomedct:260467001
       snomedct:260468006:
-        text: snomedct:260468006
-        description: ''
         title: Occipitomental - tilted
+        meaning: snomedct:260468006
       snomedct:260469003:
-        text: snomedct:260469003
-        description: ''
         title: Occipitomental - prone
+        meaning: snomedct:260469003
       snomedct:260470002:
-        text: snomedct:260470002
-        description: ''
         title: Occipitomental - 15 degree
+        meaning: snomedct:260470002
       snomedct:260471003:
-        text: snomedct:260471003
-        description: ''
         title: Occipitomental - 30 degree
+        meaning: snomedct:260471003
       snomedct:260472005:
-        text: snomedct:260472005
-        description: ''
         title: Occipitomental - 45 degree
+        meaning: snomedct:260472005
       snomedct:260473000:
-        text: snomedct:260473000
-        description: ''
         title: Waters - 35 degree tilt to radiographic baseline
+        meaning: snomedct:260473000
       snomedct:260475007:
-        text: snomedct:260475007
-        description: ''
         title: Submentovertical reduced exposure for zygomatic arches
+        meaning: snomedct:260475007
       snomedct:260476008:
-        text: snomedct:260476008
-        description: ''
         title: Slit submentovertical
+        meaning: snomedct:260476008
       snomedct:260477004:
-        text: snomedct:260477004
-        description: ''
         title: Dental/oral projection
+        meaning: snomedct:260477004
       snomedct:260478009:
-        text: snomedct:260478009
-        description: ''
         title: Body - molar
+        meaning: snomedct:260478009
       snomedct:260479001:
-        text: snomedct:260479001
-        description: ''
         title: Body - premolar
+        meaning: snomedct:260479001
       snomedct:260481004:
-        text: snomedct:260481004
-        description: ''
         title: Ramus projection
+        meaning: snomedct:260481004
       snomedct:260482006:
-        text: snomedct:260482006
-        description: ''
         title: Bimolar projection
+        meaning: snomedct:260482006
       snomedct:260483001:
-        text: snomedct:260483001
-        description: ''
         title: Transpharyngeal projection
+        meaning: snomedct:260483001
       snomedct:260484007:
-        text: snomedct:260484007
-        description: ''
         title: Transmaxillary projection
+        meaning: snomedct:260484007
       snomedct:260485008:
-        text: snomedct:260485008
-        description: ''
         title: Temporomandibular joint setting
+        meaning: snomedct:260485008
       snomedct:260486009:
-        text: snomedct:260486009
-        description: ''
         title: Maxillary sinus setting
+        meaning: snomedct:260486009
       snomedct:260487000:
-        text: snomedct:260487000
-        description: ''
         title: Dental panoramic
+        meaning: snomedct:260487000
       snomedct:260489002:
-        text: snomedct:260489002
-        description: ''
         title: Implant setting projection
+        meaning: snomedct:260489002
       snomedct:260490006:
-        text: snomedct:260490006
-        description: ''
         title: Segmental setting
+        meaning: snomedct:260490006
       snomedct:260491005:
-        text: snomedct:260491005
-        description: ''
         title: Axial view for sesamoid bones
+        meaning: snomedct:260491005
       snomedct:260492003:
-        text: snomedct:260492003
-        description: ''
         title: Brewerton's projection
+        meaning: snomedct:260492003
       snomedct:260493008:
-        text: snomedct:260493008
-        description: ''
         title: Harris Beath axial projection
+        meaning: snomedct:260493008
       snomedct:260494002:
-        text: snomedct:260494002
-        description: ''
         title: Intercondylar projection
+        meaning: snomedct:260494002
       snomedct:260496000:
-        text: snomedct:260496000
-        description: ''
         title: Judet projection
+        meaning: snomedct:260496000
       snomedct:260497009:
-        text: snomedct:260497009
-        description: ''
         title: Mortice projection
+        meaning: snomedct:260497009
       snomedct:260499007:
-        text: snomedct:260499007
-        description: ''
         title: Occlusal projection
+        meaning: snomedct:260499007
       snomedct:260500003:
-        text: snomedct:260500003
-        description: ''
         title: Projected oblique occlusal
+        meaning: snomedct:260500003
       snomedct:260501004:
-        text: snomedct:260501004
-        description: ''
         title: Lower true occlusal
+        meaning: snomedct:260501004
       snomedct:260502006:
-        text: snomedct:260502006
-        description: ''
         title: Power grip series
+        meaning: snomedct:260502006
       snomedct:260503001:
-        text: snomedct:260503001
-        description: ''
         title: Radial head projection
+        meaning: snomedct:260503001
       snomedct:260504007:
-        text: snomedct:260504007
-        description: ''
         title: Skyline projection
+        meaning: snomedct:260504007
       snomedct:260506009:
-        text: snomedct:260506009
-        description: ''
         title: Van Rosen projection
+        meaning: snomedct:260506009
       snomedct:260514003:
-        text: snomedct:260514003
-        description: ''
         title: Via body reference line
+        meaning: snomedct:260514003
       snomedct:260520002:
-        text: snomedct:260520002
-        description: ''
         title: Extracorporeal
+        meaning: snomedct:260520002
       snomedct:260521003:
-        text: snomedct:260521003
-        description: ''
         title: Internal
+        meaning: snomedct:260521003
       snomedct:260528009:
-        text: snomedct:260528009
-        description: ''
         title: Median
+        meaning: snomedct:260528009
       snomedct:260529001:
-        text: snomedct:260529001
-        description: ''
         title: Vectors
+        meaning: snomedct:260529001
       snomedct:260530006:
-        text: snomedct:260530006
-        description: ''
         title: Via body region
+        meaning: snomedct:260530006
       snomedct:260532003:
-        text: snomedct:260532003
-        description: ''
         title: Thoracoabdominal
+        meaning: snomedct:260532003
       snomedct:260535001:
-        text: snomedct:260535001
-        description: ''
         title: Lateral extrapleural
+        meaning: snomedct:260535001
       snomedct:260541008:
-        text: snomedct:260541008
-        description: ''
         title: Nasopancreatic
+        meaning: snomedct:260541008
       snomedct:260544000:
-        text: snomedct:260544000
-        description: ''
         title: Endobronchial
+        meaning: snomedct:260544000
       snomedct:260549005:
-        text: snomedct:260549005
-        description: ''
         title: Orogastric
+        meaning: snomedct:260549005
       snomedct:260568008:
-        text: snomedct:260568008
-        description: ''
         title: Via cardiovascular system
+        meaning: snomedct:260568008
       snomedct:260602004:
-        text: snomedct:260602004
-        description: ''
         title: Via superficialized vessel (qualifier value)
+        meaning: snomedct:260602004
       snomedct:260620008:
-        text: snomedct:260620008
-        description: ''
         title: Postaural approach
+        meaning: snomedct:260620008
       snomedct:260637001:
-        text: snomedct:260637001
-        description: ''
         title: Sublabial transseptal
+        meaning: snomedct:260637001
       snomedct:260641002:
-        text: snomedct:260641002
-        description: ''
         title: Extraperitoneal
+        meaning: snomedct:260641002
       snomedct:260642009:
-        text: snomedct:260642009
-        description: ''
         title: Retroperitoneal
+        meaning: snomedct:260642009
       snomedct:260668002:
-        text: snomedct:260668002
-        description: ''
         title: Venovenous
+        meaning: snomedct:260668002
       snomedct:261045000:
-        text: snomedct:261045000
-        description: ''
         title: Anterior dorsal
+        meaning: snomedct:261045000
       snomedct:261052003:
-        text: snomedct:261052003
-        description: ''
         title: Aortocoronary
+        meaning: snomedct:261052003
       snomedct:261054002:
-        text: snomedct:261054002
-        description: ''
         title: Arterio-arterial
+        meaning: snomedct:261054002
       snomedct:261055001:
-        text: snomedct:261055001
-        description: ''
         title: Arteriovenous
+        meaning: snomedct:261055001
       snomedct:261057009:
-        text: snomedct:261057009
-        description: ''
         title: Between intestinal loops
+        meaning: snomedct:261057009
       snomedct:261059007:
-        text: snomedct:261059007
-        description: ''
         title: Bicoronal
+        meaning: snomedct:261059007
       snomedct:261065007:
-        text: snomedct:261065007
-        description: ''
         title: Circumareolar
+        meaning: snomedct:261065007
       snomedct:261067004:
-        text: snomedct:261067004
-        description: ''
         title: Dorsal part
+        meaning: snomedct:261067004
       snomedct:261073003:
-        text: snomedct:261073003
-        description: ''
         title: Epicardial
+        meaning: snomedct:261073003
       snomedct:261074009:
-        text: snomedct:261074009
-        description: ''
         title: External
+        meaning: snomedct:261074009
       snomedct:261075005:
-        text: snomedct:261075005
-        description: ''
         title: Extra-amniotic
+        meaning: snomedct:261075005
       snomedct:261076006:
-        text: snomedct:261076006
-        description: ''
         title: Extracoronal
+        meaning: snomedct:261076006
       snomedct:261089000:
-        text: snomedct:261089000
-        description: ''
         title: Inferior
+        meaning: snomedct:261089000
       snomedct:261094000:
-        text: snomedct:261094000
-        description: ''
         title: Into urinary bladder
+        meaning: snomedct:261094000
       snomedct:261095004:
-        text: snomedct:261095004
-        description: ''
         title: Into ureter
+        meaning: snomedct:261095004
       snomedct:261097007:
-        text: snomedct:261097007
-        description: ''
         title: Intracoronal
+        meaning: snomedct:261097007
       snomedct:261100002:
-        text: snomedct:261100002
-        description: ''
         title: Intraperitoneal
+        meaning: snomedct:261100002
       snomedct:261101003:
-        text: snomedct:261101003
-        description: ''
         title: Intravascular
+        meaning: snomedct:261101003
       snomedct:261117009:
-        text: snomedct:261117009
-        description: ''
         title: Laryngotracheal
+        meaning: snomedct:261117009
       snomedct:261119007:
-        text: snomedct:261119007
-        description: ''
         title: Lateral part
+        meaning: snomedct:261119007
       snomedct:261122009:
-        text: snomedct:261122009
-        description: ''
         title: Lower
+        meaning: snomedct:261122009
       snomedct:261123004:
-        text: snomedct:261123004
-        description: ''
         title: Lower anterior
+        meaning: snomedct:261123004
       snomedct:261128008:
-        text: snomedct:261128008
-        description: ''
         title: Medial part
+        meaning: snomedct:261128008
       snomedct:261131009:
-        text: snomedct:261131009
-        description: ''
         title: Midaxillary
+        meaning: snomedct:261131009
       snomedct:261132002:
-        text: snomedct:261132002
-        description: ''
         title: Midclavicular
+        meaning: snomedct:261132002
       snomedct:261133007:
-        text: snomedct:261133007
-        description: ''
         title: Middle third
+        meaning: snomedct:261133007
       snomedct:261136004:
-        text: snomedct:261136004
-        description: ''
         title: Mural
+        meaning: snomedct:261136004
       snomedct:261137008:
-        text: snomedct:261137008
-        description: ''
         title: Musculocutaneous
+        meaning: snomedct:261137008
       snomedct:261146002:
-        text: snomedct:261146002
-        description: ''
         title: Para-aortic
+        meaning: snomedct:261146002
       snomedct:261147006:
-        text: snomedct:261147006
-        description: ''
         title: Paracolic
+        meaning: snomedct:261147006
       snomedct:261148001:
-        text: snomedct:261148001
-        description: ''
         title: Paraspinal
+        meaning: snomedct:261148001
       snomedct:261149009:
-        text: snomedct:261149009
-        description: ''
         title: Parasternal
+        meaning: snomedct:261149009
       snomedct:261154000:
-        text: snomedct:261154000
-        description: ''
         title: Penis and urinary bladder neck
+        meaning: snomedct:261154000
       snomedct:261156003:
-        text: snomedct:261156003
-        description: ''
         title: Periadrenal
+        meaning: snomedct:261156003
       snomedct:261165005:
-        text: snomedct:261165005
-        description: ''
         title: Posterior dorsal
+        meaning: snomedct:261165005
       snomedct:261172006:
-        text: snomedct:261172006
-        description: ''
         title: Proximal third
+        meaning: snomedct:261172006
       snomedct:261174007:
-        text: snomedct:261174007
-        description: ''
         title: Retrocecal (qualifier value)
+        meaning: snomedct:261174007
       snomedct:261175008:
-        text: snomedct:261175008
-        description: ''
         title: Retroduodenal
+        meaning: snomedct:261175008
       snomedct:261181000:
-        text: snomedct:261181000
-        description: ''
         title: Tracheobronchial
+        meaning: snomedct:261181000
       snomedct:261183002:
-        text: snomedct:261183002
-        description: ''
         title: Upper
+        meaning: snomedct:261183002
       snomedct:261184008:
-        text: snomedct:261184008
-        description: ''
         title: Upper anterior
+        meaning: snomedct:261184008
       snomedct:261185009:
-        text: snomedct:261185009
-        description: ''
         title: Venoarterial
+        meaning: snomedct:261185009
       snomedct:261186005:
-        text: snomedct:261186005
-        description: ''
         title: Ventral part
+        meaning: snomedct:261186005
       snomedct:261411001:
-        text: snomedct:261411001
-        description: ''
         title: Distal third
+        meaning: snomedct:261411001
       snomedct:261446009:
-        text: snomedct:261446009
-        description: ''
         title: Transpulmonary annulus
+        meaning: snomedct:261446009
       snomedct:261466000:
-        text: snomedct:261466000
-        description: ''
         title: Via intrapulmonary trunk tunnel
+        meaning: snomedct:261466000
       snomedct:261469007:
-        text: snomedct:261469007
-        description: ''
         title: Via orbitotomy
+        meaning: snomedct:261469007
       snomedct:261760007:
-        text: snomedct:261760007
-        description: ''
         title: Deep to rectus abdominis
+        meaning: snomedct:261760007
       snomedct:261788001:
-        text: snomedct:261788001
-        description: ''
         title: Exteriorized (qualifier value)
+        meaning: snomedct:261788001
       snomedct:261799004:
-        text: snomedct:261799004
-        description: ''
         title: From existing graft to coronary artery
+        meaning: snomedct:261799004
       snomedct:261847009:
-        text: snomedct:261847009
-        description: ''
         title: Intracervical
+        meaning: snomedct:261847009
       snomedct:261851006:
-        text: snomedct:261851006
-        description: ''
         title: Internally to bladder
+        meaning: snomedct:261851006
       snomedct:261945002:
-        text: snomedct:261945002
-        description: ''
         title: Mixed venoarterial and venovenous
+        meaning: snomedct:261945002
       snomedct:261964008:
-        text: snomedct:261964008
-        description: ''
         title: Muscle fibers only (qualifier value)
+        meaning: snomedct:261964008
       snomedct:261980003:
-        text: snomedct:261980003
-        description: ''
         title: Neuromuscular junction only
+        meaning: snomedct:261980003
       snomedct:262379005:
-        text: snomedct:262379005
-        description: ''
         title: Dominant side
+        meaning: snomedct:262379005
       snomedct:262458006:
-        text: snomedct:262458006
-        description: ''
         title: Non-dominant side
+        meaning: snomedct:262458006
       snomedct:263672002:
-        text: snomedct:263672002
-        description: ''
         title: Anocutaneous
+        meaning: snomedct:263672002
       snomedct:263674001:
-        text: snomedct:263674001
-        description: ''
         title: Anovestibular
+        meaning: snomedct:263674001
       snomedct:263759007:
-        text: snomedct:263759007
-        description: ''
         title: Foraminal
+        meaning: snomedct:263759007
       snomedct:263794000:
-        text: snomedct:263794000
-        description: ''
         title: Left side-by-side
+        meaning: snomedct:263794000
       snomedct:263795004:
-        text: snomedct:263795004
-        description: ''
         title: Left sided
+        meaning: snomedct:263795004
       snomedct:263830001:
-        text: snomedct:263830001
-        description: ''
         title: Panacinar
+        meaning: snomedct:263830001
       snomedct:263831002:
-        text: snomedct:263831002
-        description: ''
         title: Panlobular
+        meaning: snomedct:263831002
       snomedct:263838008:
-        text: snomedct:263838008
-        description: ''
         title: Periacinar
+        meaning: snomedct:263838008
       snomedct:263846009:
-        text: snomedct:263846009
-        description: ''
         title: Prevascular
+        meaning: snomedct:263846009
       snomedct:263848005:
-        text: snomedct:263848005
-        description: ''
         title: Proximal acinar
+        meaning: snomedct:263848005
       snomedct:263869007:
-        text: snomedct:263869007
-        description: ''
         title: Separate
+        meaning: snomedct:263869007
       snomedct:263887005:
-        text: snomedct:263887005
-        description: ''
         title: Subcutaneous
+        meaning: snomedct:263887005
       snomedct:263938007:
-        text: snomedct:263938007
-        description: ''
         title: Above middle turbinate
+        meaning: snomedct:263938007
       snomedct:263942005:
-        text: snomedct:263942005
-        description: ''
         title: Anterior segment
+        meaning: snomedct:263942005
       snomedct:263943000:
-        text: snomedct:263943000
-        description: ''
         title: Anterior wall
+        meaning: snomedct:263943000
       snomedct:263952009:
-        text: snomedct:263952009
-        description: ''
         title: Periorbital
+        meaning: snomedct:263952009
       snomedct:263953004:
-        text: snomedct:263953004
-        description: ''
         title: Perioral
+        meaning: snomedct:263953004
       snomedct:263955006:
-        text: snomedct:263955006
-        description: ''
         title: Atlantoaxial
+        meaning: snomedct:263955006
       snomedct:263958008:
-        text: snomedct:263958008
-        description: ''
         title: Between left common carotid and brachiocephalic arteries
+        meaning: snomedct:263958008
       snomedct:263959000:
-        text: snomedct:263959000
-        description: ''
         title: Between left subclavian and common carotid arteries
+        meaning: snomedct:263959000
       snomedct:263965000:
-        text: snomedct:263965000
-        description: ''
         title: Bronchocutaneous
+        meaning: snomedct:263965000
       snomedct:263966004:
-        text: snomedct:263966004
-        description: ''
         title: Bronchopleural
+        meaning: snomedct:263966004
       snomedct:263969006:
-        text: snomedct:263969006
-        description: ''
         title: Centriacinar
+        meaning: snomedct:263969006
       snomedct:263970007:
-        text: snomedct:263970007
-        description: ''
         title: Centrilobular
+        meaning: snomedct:263970007
       snomedct:263974003:
-        text: snomedct:263974003
-        description: ''
         title: Cervicothoracic
+        meaning: snomedct:263974003
       snomedct:263975002:
-        text: snomedct:263975002
-        description: ''
         title: Cervicothoracolumbar
+        meaning: snomedct:263975002
       snomedct:263981005:
-        text: snomedct:263981005
-        description: ''
         title: Distal to left subclavian artery
+        meaning: snomedct:263981005
       snomedct:263990003:
-        text: snomedct:263990003
-        description: ''
         title: Duodenoduodenal
+        meaning: snomedct:263990003
       snomedct:263991004:
-        text: snomedct:263991004
-        description: ''
         title: Duodenojejunal
+        meaning: snomedct:263991004
       snomedct:263996009:
-        text: snomedct:263996009
-        description: ''
         title: Extrafoveal
+        meaning: snomedct:263996009
       snomedct:263997000:
-        text: snomedct:263997000
-        description: ''
         title: Extraureteric
+        meaning: snomedct:263997000
       snomedct:263998005:
-        text: snomedct:263998005
-        description: ''
         title: Extravaginal
+        meaning: snomedct:263998005
       snomedct:263999002:
-        text: snomedct:263999002
-        description: ''
         title: From anterosuperior-superior bridging leaflet commissure
+        meaning: snomedct:263999002
       snomedct:264000000:
-        text: snomedct:264000000
-        description: ''
         title: From left inferior bridging leaflet-lateral commissure
+        meaning: snomedct:264000000
       snomedct:264001001:
-        text: snomedct:264001001
-        description: ''
         title: From left septal commissure
+        meaning: snomedct:264001001
       snomedct:264002008:
-        text: snomedct:264002008
-        description: ''
         title: From left superior bridging leaflet-lateral commissure
+        meaning: snomedct:264002008
       snomedct:264004009:
-        text: snomedct:264004009
-        description: ''
         title: From left ventricular component
+        meaning: snomedct:264004009
       snomedct:264005005:
-        text: snomedct:264005005
-        description: ''
         title: From right anterosuperior-inferior commissure
+        meaning: snomedct:264005005
       snomedct:264006006:
-        text: snomedct:264006006
-        description: ''
         title: From right inferior bridging leaflet-inferior commissure
+        meaning: snomedct:264006006
       snomedct:264007002:
-        text: snomedct:264007002
-        description: ''
         title: From right septal commissure
+        meaning: snomedct:264007002
       snomedct:264008007:
-        text: snomedct:264008007
-        description: ''
         title: From right ventricular component
+        meaning: snomedct:264008007
       snomedct:264011008:
-        text: snomedct:264011008
-        description: ''
         title: Gastroduodenal
+        meaning: snomedct:264011008
       snomedct:264012001:
-        text: snomedct:264012001
-        description: ''
         title: Gastrogastric
+        meaning: snomedct:264012001
       snomedct:264015004:
-        text: snomedct:264015004
-        description: ''
         title: Hepatopleural
+        meaning: snomedct:264015004
       snomedct:264023002:
-        text: snomedct:264023002
-        description: ''
         title: Ileocecal (qualifier value)
+        meaning: snomedct:264023002
       snomedct:264024008:
-        text: snomedct:264024008
-        description: ''
         title: Ileocolic
+        meaning: snomedct:264024008
       snomedct:264025009:
-        text: snomedct:264025009
-        description: ''
         title: Iliofemoral vein zone
+        meaning: snomedct:264025009
       snomedct:264026005:
-        text: snomedct:264026005
-        description: ''
         title: Ileo-ileal
+        meaning: snomedct:264026005
       snomedct:264027001:
-        text: snomedct:264027001
-        description: ''
         title: Ileorectal
+        meaning: snomedct:264027001
       snomedct:264030008:
-        text: snomedct:264030008
-        description: ''
         title: In joint
+        meaning: snomedct:264030008
       snomedct:264031007:
-        text: snomedct:264031007
-        description: ''
         title: In situ
+        meaning: snomedct:264031007
       snomedct:264034004:
-        text: snomedct:264034004
-        description: ''
         title: Infracardiac
+        meaning: snomedct:264034004
       snomedct:264035003:
-        text: snomedct:264035003
-        description: ''
         title: Infravesical
+        meaning: snomedct:264035003
       snomedct:264040006:
-        text: snomedct:264040006
-        description: ''
         title: Interchordal
+        meaning: snomedct:264040006
       snomedct:264041005:
-        text: snomedct:264041005
-        description: ''
         title: Interdigital
+        meaning: snomedct:264041005
       snomedct:264042003:
-        text: snomedct:264042003
-        description: ''
         title: Intervertebral
+        meaning: snomedct:264042003
       snomedct:264043008:
-        text: snomedct:264043008
-        description: ''
         title: Intraligamentous
+        meaning: snomedct:264043008
       snomedct:264044002:
-        text: snomedct:264044002
-        description: ''
         title: Intracardiac
+        meaning: snomedct:264044002
       snomedct:264045001:
-        text: snomedct:264045001
-        description: ''
         title: Intraluminal
+        meaning: snomedct:264045001
       snomedct:264046000:
-        text: snomedct:264046000
-        description: ''
         title: Intramammary
+        meaning: snomedct:264046000
       snomedct:264047009:
-        text: snomedct:264047009
-        description: ''
         title: Intrapulmonary
+        meaning: snomedct:264047009
       snomedct:264049007:
-        text: snomedct:264049007
-        description: ''
         title: Intravaginal
+        meaning: snomedct:264049007
       snomedct:264056001:
-        text: snomedct:264056001
-        description: ''
         title: Lateral column
+        meaning: snomedct:264056001
       snomedct:264060003:
-        text: snomedct:264060003
-        description: ''
         title: Lateral segment
+        meaning: snomedct:264060003
       snomedct:264065008:
-        text: snomedct:264065008
-        description: ''
         title: Left anterior
+        meaning: snomedct:264065008
       snomedct:264067000:
-        text: snomedct:264067000
-        description: ''
         title: Left lateral wall
+        meaning: snomedct:264067000
       snomedct:264068005:
-        text: snomedct:264068005
-        description: ''
         title: Left lower segment
+        meaning: snomedct:264068005
       snomedct:264076007:
-        text: snomedct:264076007
-        description: ''
         title: Lower left parasternal
+        meaning: snomedct:264076007
       snomedct:264081003:
-        text: snomedct:264081003
-        description: ''
         title: Lower third
+        meaning: snomedct:264081003
       snomedct:264083000:
-        text: snomedct:264083000
-        description: ''
         title: Lumbosacral
+        meaning: snomedct:264083000
       snomedct:264096004:
-        text: snomedct:264096004
-        description: ''
         title: Medial segment
+        meaning: snomedct:264096004
       snomedct:264103001:
-        text: snomedct:264103001
-        description: ''
         title: Midtarsal
+        meaning: snomedct:264103001
       snomedct:264107000:
-        text: snomedct:264107000
-        description: ''
         title: Paravertebral
+        meaning: snomedct:264107000
       snomedct:264110007:
-        text: snomedct:264110007
-        description: ''
         title: Esophagocolonic (qualifier value)
+        meaning: snomedct:264110007
       snomedct:264111006:
-        text: snomedct:264111006
-        description: ''
         title: Esophagogastric (qualifier value)
+        meaning: snomedct:264111006
       snomedct:264112004:
-        text: snomedct:264112004
-        description: ''
         title: Esophagojejunal (qualifier value)
+        meaning: snomedct:264112004
       snomedct:264114003:
-        text: snomedct:264114003
-        description: ''
         title: Ostium
+        meaning: snomedct:264114003
       snomedct:264117005:
-        text: snomedct:264117005
-        description: ''
         title: Paraesophageal (qualifier value)
+        meaning: snomedct:264117005
       snomedct:264118000:
-        text: snomedct:264118000
-        description: ''
         title: Paraduodenal
+        meaning: snomedct:264118000
       snomedct:264119008:
-        text: snomedct:264119008
-        description: ''
         title: Parafoveal
+        meaning: snomedct:264119008
       snomedct:264121003:
-        text: snomedct:264121003
-        description: ''
         title: Paramacular
+        meaning: snomedct:264121003
       snomedct:264123000:
-        text: snomedct:264123000
-        description: ''
         title: Paraseptal
+        meaning: snomedct:264123000
       snomedct:264124006:
-        text: snomedct:264124006
-        description: ''
         title: Paraumbilical
+        meaning: snomedct:264124006
       snomedct:264126008:
-        text: snomedct:264126008
-        description: ''
         title: Paravascular
+        meaning: snomedct:264126008
       snomedct:264127004:
-        text: snomedct:264127004
-        description: ''
         title: Paraovarian
+        meaning: snomedct:264127004
       snomedct:264128009:
-        text: snomedct:264128009
-        description: ''
         title: Paratracheal
+        meaning: snomedct:264128009
       snomedct:264131005:
-        text: snomedct:264131005
-        description: ''
         title: Peri-intestinal
+        meaning: snomedct:264131005
       snomedct:264133008:
-        text: snomedct:264133008
-        description: ''
         title: Perianal
+        meaning: snomedct:264133008
       snomedct:264136000:
-        text: snomedct:264136000
-        description: ''
         title: Perihepatic
+        meaning: snomedct:264136000
       snomedct:264137009:
-        text: snomedct:264137009
-        description: ''
         title: Perinephric
+        meaning: snomedct:264137009
       snomedct:264139007:
-        text: snomedct:264139007
-        description: ''
         title: Peripancreatic
+        meaning: snomedct:264139007
       snomedct:264142001:
-        text: snomedct:264142001
-        description: ''
         title: Perisplenic
+        meaning: snomedct:264142001
       snomedct:264153007:
-        text: snomedct:264153007
-        description: ''
         title: Posterior pole
+        meaning: snomedct:264153007
       snomedct:264154001:
-        text: snomedct:264154001
-        description: ''
         title: Posterior segment
+        meaning: snomedct:264154001
       snomedct:264159006:
-        text: snomedct:264159006
-        description: ''
         title: Posterior wall
+        meaning: snomedct:264159006
       snomedct:264168008:
-        text: snomedct:264168008
-        description: ''
         title: Rectocloacal
+        meaning: snomedct:264168008
       snomedct:264169000:
-        text: snomedct:264169000
-        description: ''
         title: Rectocutaneous
+        meaning: snomedct:264169000
       snomedct:264170004:
-        text: snomedct:264170004
-        description: ''
         title: Rectourethral
+        meaning: snomedct:264170004
       snomedct:264171000:
-        text: snomedct:264171000
-        description: ''
         title: Rectovaginal
+        meaning: snomedct:264171000
       snomedct:264172007:
-        text: snomedct:264172007
-        description: ''
         title: Rectovesical
+        meaning: snomedct:264172007
       snomedct:264173002:
-        text: snomedct:264173002
-        description: ''
         title: Rectovulval
+        meaning: snomedct:264173002
       snomedct:264174008:
-        text: snomedct:264174008
-        description: ''
         title: Retromammary
+        meaning: snomedct:264174008
       snomedct:264175009:
-        text: snomedct:264175009
-        description: ''
         title: Retrocolumellar
+        meaning: snomedct:264175009
       snomedct:264176005:
-        text: snomedct:264176005
-        description: ''
         title: Right anterior
+        meaning: snomedct:264176005
       snomedct:264178006:
-        text: snomedct:264178006
-        description: ''
         title: Right lateral wall
+        meaning: snomedct:264178006
       snomedct:264179003:
-        text: snomedct:264179003
-        description: ''
         title: Right side-by-side
+        meaning: snomedct:264179003
       snomedct:264180000:
-        text: snomedct:264180000
-        description: ''
         title: Right sided
+        meaning: snomedct:264180000
       snomedct:264193005:
-        text: snomedct:264193005
-        description: ''
         title: Segment
+        meaning: snomedct:264193005
       snomedct:264201006:
-        text: snomedct:264201006
-        description: ''
         title: Sternocostal
+        meaning: snomedct:264201006
       snomedct:264202004:
-        text: snomedct:264202004
-        description: ''
         title: Subaortic
+        meaning: snomedct:264202004
       snomedct:264205002:
-        text: snomedct:264205002
-        description: ''
         title: Subareolar
+        meaning: snomedct:264205002
       snomedct:264206001:
-        text: snomedct:264206001
-        description: ''
         title: Subconjunctival
+        meaning: snomedct:264206001
       snomedct:264208000:
-        text: snomedct:264208000
-        description: ''
         title: Subcostal
+        meaning: snomedct:264208000
       snomedct:264209008:
-        text: snomedct:264209008
-        description: ''
         title: Subfoveal
+        meaning: snomedct:264209008
       snomedct:264216009:
-        text: snomedct:264216009
-        description: ''
         title: Superficial to rectus abdominis
+        meaning: snomedct:264216009
       snomedct:264217000:
-        text: snomedct:264217000
-        description: ''
         title: Superior
+        meaning: snomedct:264217000
       snomedct:264221007:
-        text: snomedct:264221007
-        description: ''
         title: Supraumbilical
+        meaning: snomedct:264221007
       snomedct:264222000:
-        text: snomedct:264222000
-        description: ''
         title: Supracardiac
+        meaning: snomedct:264222000
       snomedct:264224004:
-        text: snomedct:264224004
-        description: ''
         title: Supraglottic
+        meaning: snomedct:264224004
       snomedct:264225003:
-        text: snomedct:264225003
-        description: ''
         title: Suprahepatic
+        meaning: snomedct:264225003
       snomedct:264227006:
-        text: snomedct:264227006
-        description: ''
         title: Tarsometatarsal
+        meaning: snomedct:264227006
       snomedct:264232007:
-        text: snomedct:264232007
-        description: ''
         title: Thoracolumbar
+        meaning: snomedct:264232007
       snomedct:264245006:
-        text: snomedct:264245006
-        description: ''
         title: Upper left parasternal
+        meaning: snomedct:264245006
       snomedct:264253003:
-        text: snomedct:264253003
-        description: ''
         title: Upper third
+        meaning: snomedct:264253003
       snomedct:264261008:
-        text: snomedct:264261008
-        description: ''
         title: Cholecystoduodenal
+        meaning: snomedct:264261008
       snomedct:264262001:
-        text: snomedct:264262001
-        description: ''
         title: Cholecystenteric (qualifier value)
+        meaning: snomedct:264262001
       snomedct:264263006:
-        text: snomedct:264263006
-        description: ''
         title: Cholecystogastric
+        meaning: snomedct:264263006
       snomedct:264264000:
-        text: snomedct:264264000
-        description: ''
         title: Choledochoduodenal
+        meaning: snomedct:264264000
       snomedct:264266003:
-        text: snomedct:264266003
-        description: ''
         title: Colocolic
+        meaning: snomedct:264266003
       snomedct:264267007:
-        text: snomedct:264267007
-        description: ''
         title: Colorectal
+        meaning: snomedct:264267007
       snomedct:264463009:
-        text: snomedct:264463009
-        description: ''
         title: Epitrochlear
+        meaning: snomedct:264463009
       snomedct:264940008:
-        text: snomedct:264940008
-        description: ''
         title: Under inferior bridging leaflet
+        meaning: snomedct:264940008
       snomedct:264941007:
-        text: snomedct:264941007
-        description: ''
         title: Under superior bridging leaflet
+        meaning: snomedct:264941007
       snomedct:272288000:
-        text: snomedct:272288000
-        description: ''
         title: Onlay
+        meaning: snomedct:272288000
       snomedct:272425003:
-        text: snomedct:272425003
-        description: ''
         title: General site descriptor
+        meaning: snomedct:272425003
       snomedct:272427006:
-        text: snomedct:272427006
-        description: ''
         title: Anatomical part descriptor
+        meaning: snomedct:272427006
       snomedct:272428001:
-        text: snomedct:272428001
-        description: ''
         title: Anatomical third
+        meaning: snomedct:272428001
       snomedct:272429009:
-        text: snomedct:272429009
-        description: ''
         title: Part structure
+        meaning: snomedct:272429009
       snomedct:272430004:
-        text: snomedct:272430004
-        description: ''
         title: Column structure
+        meaning: snomedct:272430004
       snomedct:272431000:
-        text: snomedct:272431000
-        description: ''
         title: Segment structure
+        meaning: snomedct:272431000
       snomedct:272432007:
-        text: snomedct:272432007
-        description: ''
         title: Wall structure
+        meaning: snomedct:272432007
       snomedct:272434008:
-        text: snomedct:272434008
-        description: ''
         title: Anatomical relationship descriptor
+        meaning: snomedct:272434008
       snomedct:272435009:
-        text: snomedct:272435009
-        description: ''
         title: Centri-location
+        meaning: snomedct:272435009
       snomedct:272436005:
-        text: snomedct:272436005
-        description: ''
         title: Circum-location
+        meaning: snomedct:272436005
       snomedct:272437001:
-        text: snomedct:272437001
-        description: ''
         title: Extra-location
+        meaning: snomedct:272437001
       snomedct:272438006:
-        text: snomedct:272438006
-        description: ''
         title: Extrapleural
+        meaning: snomedct:272438006
       snomedct:272439003:
-        text: snomedct:272439003
-        description: ''
         title: Infra-location
+        meaning: snomedct:272439003
       snomedct:272440001:
-        text: snomedct:272440001
-        description: ''
         title: Inter-location
+        meaning: snomedct:272440001
       snomedct:272441002:
-        text: snomedct:272441002
-        description: ''
         title: Intra-location
+        meaning: snomedct:272441002
       snomedct:272442009:
-        text: snomedct:272442009
-        description: ''
         title: Mid-location
+        meaning: snomedct:272442009
       snomedct:272443004:
-        text: snomedct:272443004
-        description: ''
         title: Pan-location
+        meaning: snomedct:272443004
       snomedct:272444005:
-        text: snomedct:272444005
-        description: ''
         title: Para-location
+        meaning: snomedct:272444005
       snomedct:272446007:
-        text: snomedct:272446007
-        description: ''
         title: Per-location
+        meaning: snomedct:272446007
       snomedct:272447003:
-        text: snomedct:272447003
-        description: ''
         title: Peri-location
+        meaning: snomedct:272447003
       snomedct:272448008:
-        text: snomedct:272448008
-        description: ''
         title: Post-location
+        meaning: snomedct:272448008
       snomedct:272449000:
-        text: snomedct:272449000
-        description: ''
         title: Pre-location
+        meaning: snomedct:272449000
       snomedct:272450000:
-        text: snomedct:272450000
-        description: ''
         title: Retro-location
+        meaning: snomedct:272450000
       snomedct:272451001:
-        text: snomedct:272451001
-        description: ''
         title: Sub-location
+        meaning: snomedct:272451001
       snomedct:272452008:
-        text: snomedct:272452008
-        description: ''
         title: Supra-location
+        meaning: snomedct:272452008
       snomedct:272455005:
-        text: snomedct:272455005
-        description: ''
         title: Inferosuperior projection
+        meaning: snomedct:272455005
       snomedct:272456006:
-        text: snomedct:272456006
-        description: ''
         title: Apical projection
+        meaning: snomedct:272456006
       snomedct:272457002:
-        text: snomedct:272457002
-        description: ''
         title: Vertical projection
+        meaning: snomedct:272457002
       snomedct:272458007:
-        text: snomedct:272458007
-        description: ''
         title: Prone projection
+        meaning: snomedct:272458007
       snomedct:272459004:
-        text: snomedct:272459004
-        description: ''
         title: Supine projection
+        meaning: snomedct:272459004
       snomedct:272460009:
-        text: snomedct:272460009
-        description: ''
         title: Anterior projection
+        meaning: snomedct:272460009
       snomedct:272461008:
-        text: snomedct:272461008
-        description: ''
         title: Right posterior projection
+        meaning: snomedct:272461008
       snomedct:272462001:
-        text: snomedct:272462001
-        description: ''
         title: Left posterior projection
+        meaning: snomedct:272462001
       snomedct:272464000:
-        text: snomedct:272464000
-        description: ''
         title: Perorbital projection
+        meaning: snomedct:272464000
       snomedct:272465004:
-        text: snomedct:272465004
-        description: ''
         title: Temporomandibular joint projection
+        meaning: snomedct:272465004
       snomedct:272466003:
-        text: snomedct:272466003
-        description: ''
         title: Optic foramen projection
+        meaning: snomedct:272466003
       snomedct:272467007:
-        text: snomedct:272467007
-        description: ''
         title: Lateral facial skeleton projection
+        meaning: snomedct:272467007
       snomedct:272468002:
-        text: snomedct:272468002
-        description: ''
         title: Ear projection
+        meaning: snomedct:272468002
       snomedct:272469005:
-        text: snomedct:272469005
-        description: ''
         title: Mid face projection
+        meaning: snomedct:272469005
       snomedct:272470006:
-        text: snomedct:272470006
-        description: ''
         title: Cervical spine projection
+        meaning: snomedct:272470006
       snomedct:272472003:
-        text: snomedct:272472003
-        description: ''
         title: Macro projection
+        meaning: snomedct:272472003
       snomedct:272473008:
-        text: snomedct:272473008
-        description: ''
         title: Outlet projection
+        meaning: snomedct:272473008
       snomedct:272474002:
-        text: snomedct:272474002
-        description: ''
         title: Swimmer's projection
+        meaning: snomedct:272474002
       snomedct:272475001:
-        text: snomedct:272475001
-        description: ''
         title: Tibial tuberosity projection
+        meaning: snomedct:272475001
       snomedct:272476000:
-        text: snomedct:272476000
-        description: ''
         title: Transthoracic projection
+        meaning: snomedct:272476000
       snomedct:272478004:
-        text: snomedct:272478004
-        description: ''
         title: Transcranial projection
+        meaning: snomedct:272478004
       snomedct:272479007:
-        text: snomedct:272479007
-        description: ''
         title: Posteroanterior projection
+        meaning: snomedct:272479007
       snomedct:272480005:
-        text: snomedct:272480005
-        description: ''
         title: Horizontal projection
+        meaning: snomedct:272480005
       snomedct:272481009:
-        text: snomedct:272481009
-        description: ''
         title: Erect projection
+        meaning: snomedct:272481009
       snomedct:272482002:
-        text: snomedct:272482002
-        description: ''
         title: Adduction projection
+        meaning: snomedct:272482002
       snomedct:272483007:
-        text: snomedct:272483007
-        description: ''
         title: True projection
+        meaning: snomedct:272483007
       snomedct:272484001:
-        text: snomedct:272484001
-        description: ''
         title: Contralateral projection
+        meaning: snomedct:272484001
       snomedct:272485000:
-        text: snomedct:272485000
-        description: ''
         title: Clockface position
+        meaning: snomedct:272485000
       snomedct:272486004:
-        text: snomedct:272486004
-        description: ''
         title: Trans-direction
+        meaning: snomedct:272486004
       snomedct:272487008:
-        text: snomedct:272487008
-        description: ''
         title: Into-structure
+        meaning: snomedct:272487008
       snomedct:272488003:
-        text: snomedct:272488003
-        description: ''
         title: From-structure
+        meaning: snomedct:272488003
       snomedct:272489006:
-        text: snomedct:272489006
-        description: ''
         title: Via values
+        meaning: snomedct:272489006
       snomedct:272496008:
-        text: snomedct:272496008
-        description: ''
         title: Via incision
+        meaning: snomedct:272496008
       snomedct:276749003:
-        text: snomedct:276749003
-        description: ''
         title: Epi-location
+        meaning: snomedct:276749003
       snomedct:276825009:
-        text: snomedct:276825009
-        description: ''
         title: Overlapping sites
+        meaning: snomedct:276825009
       snomedct:276979001:
-        text: snomedct:276979001
-        description: ''
         title: Aortoiliac
+        meaning: snomedct:276979001
       snomedct:277292000:
-        text: snomedct:277292000
-        description: ''
         title: Endo-location
+        meaning: snomedct:277292000
       snomedct:277407002:
-        text: snomedct:277407002
-        description: ''
         title: Deep locations
+        meaning: snomedct:277407002
       snomedct:277409004:
-        text: snomedct:277409004
-        description: ''
         title: Superficial locations
+        meaning: snomedct:277409004
       snomedct:277410009:
-        text: snomedct:277410009
-        description: ''
         title: Anterior locations
+        meaning: snomedct:277410009
       snomedct:277411008:
-        text: snomedct:277411008
-        description: ''
         title: Posterior locations
+        meaning: snomedct:277411008
       snomedct:277412001:
-        text: snomedct:277412001
-        description: ''
         title: Proximal locations
+        meaning: snomedct:277412001
       snomedct:277413006:
-        text: snomedct:277413006
-        description: ''
         title: Distal locations
+        meaning: snomedct:277413006
       snomedct:277414000:
-        text: snomedct:277414000
-        description: ''
         title: Between locations
+        meaning: snomedct:277414000
       snomedct:277415004:
-        text: snomedct:277415004
-        description: ''
         title: Above locations
+        meaning: snomedct:277415004
       snomedct:277593009:
-        text: snomedct:277593009
-        description: ''
         title: Right posterior
+        meaning: snomedct:277593009
       snomedct:277594003:
-        text: snomedct:277594003
-        description: ''
         title: Left posterior
+        meaning: snomedct:277594003
       snomedct:277681008:
-        text: snomedct:277681008
-        description: ''
         title: Intrastomal
+        meaning: snomedct:277681008
       snomedct:277685004:
-        text: snomedct:277685004
-        description: ''
         title: Tubo-ovarian
+        meaning: snomedct:277685004
       snomedct:277686003:
-        text: snomedct:277686003
-        description: ''
         title: Peritubular
+        meaning: snomedct:277686003
       snomedct:277806003:
-        text: snomedct:277806003
-        description: ''
         title: Sidedness
+        meaning: snomedct:277806003
       snomedct:278227002:
-        text: snomedct:278227002
-        description: ''
         title: Limited structures
+        meaning: snomedct:278227002
       snomedct:278255003:
-        text: snomedct:278255003
-        description: ''
         title: Posterior projection
+        meaning: snomedct:278255003
       snomedct:278267001:
-        text: snomedct:278267001
-        description: ''
         title: Abduction projection
+        meaning: snomedct:278267001
       snomedct:278318001:
-        text: snomedct:278318001
-        description: ''
         title: Transorbital projection
+        meaning: snomedct:278318001
       snomedct:278701003:
-        text: snomedct:278701003
-        description: ''
         title: Periumbilical
+        meaning: snomedct:278701003
       snomedct:278702005:
-        text: snomedct:278702005
-        description: ''
         title: Transumbilical
+        meaning: snomedct:278702005
       snomedct:285418008:
-        text: snomedct:285418008
-        description: ''
         title: Subcuticular
+        meaning: snomedct:285418008
       snomedct:298107004:
-        text: snomedct:298107004
-        description: ''
         title: Orthotopic
+        meaning: snomedct:298107004
       snomedct:298108009:
-        text: snomedct:298108009
-        description: ''
         title: Heterotopic
+        meaning: snomedct:298108009
       snomedct:298109001:
-        text: snomedct:298109001
-        description: ''
         title: Ectopic
+        meaning: snomedct:298109001
       snomedct:303218009:
-        text: snomedct:303218009
-        description: ''
         title: Subfascial
+        meaning: snomedct:303218009
       snomedct:303231004:
-        text: snomedct:303231004
-        description: ''
         title: Intracranial
+        meaning: snomedct:303231004
       snomedct:303232006:
-        text: snomedct:303232006
-        description: ''
         title: Extracranial
+        meaning: snomedct:303232006
       snomedct:303483009:
-        text: snomedct:303483009
-        description: ''
         title: Subcranial
+        meaning: snomedct:303483009
       snomedct:304047000:
-        text: snomedct:304047000
-        description: ''
         title: Transannular
+        meaning: snomedct:304047000
       snomedct:304059001:
-        text: snomedct:304059001
-        description: ''
         title: Endocardial
+        meaning: snomedct:304059001
       snomedct:306766009:
-        text: snomedct:306766009
-        description: ''
         title: Low - site descriptor
+        meaning: snomedct:306766009
       snomedct:306767000:
-        text: snomedct:306767000
-        description: ''
         title: High - site descriptor
+        meaning: snomedct:306767000
       snomedct:312206004:
-        text: snomedct:312206004
-        description: ''
         title: Periapical
+        meaning: snomedct:312206004
       snomedct:3583002:
-        text: snomedct:3583002
-        description: ''
         title: Caudal
+        meaning: snomedct:3583002
       snomedct:373863008:
-        text: snomedct:373863008
-        description: ''
         title: Intracavitary
+        meaning: snomedct:373863008
       snomedct:397406000:
-        text: snomedct:397406000
-        description: ''
         title: Collateral branch of vessel
+        meaning: snomedct:397406000
       snomedct:397421006:
-        text: snomedct:397421006
-        description: ''
         title: Vessel origin
+        meaning: snomedct:397421006
       snomedct:398236008:
-        text: snomedct:398236008
-        description: ''
         title: Intrauterine
+        meaning: snomedct:398236008
       snomedct:398994001:
-        text: snomedct:398994001
-        description: ''
         title: Five chamber view
+        meaning: snomedct:398994001
       snomedct:398996004:
-        text: snomedct:398996004
-        description: ''
         title: Leonard-George projection
+        meaning: snomedct:398996004
       snomedct:398998003:
-        text: snomedct:398998003
-        description: ''
         title: Right ventricular inflow tract view
+        meaning: snomedct:398998003
       snomedct:399000008:
-        text: snomedct:399000008
-        description: ''
         title: Mayer projection
+        meaning: snomedct:399000008
       snomedct:399001007:
-        text: snomedct:399001007
-        description: ''
         title: Posterior emissive projection
+        meaning: snomedct:399001007
       snomedct:399002000:
-        text: snomedct:399002000
-        description: ''
         title: Nolke projection
+        meaning: snomedct:399002000
       snomedct:399003005:
-        text: snomedct:399003005
-        description: ''
         title: Hughston projection
+        meaning: snomedct:399003005
       snomedct:399004004:
-        text: snomedct:399004004
-        description: ''
         title: Oblique axial projection
+        meaning: snomedct:399004004
       snomedct:399005003:
-        text: snomedct:399005003
-        description: ''
         title: Miller projection
+        meaning: snomedct:399005003
       snomedct:399006002:
-        text: snomedct:399006002
-        description: ''
         title: Left posterior oblique projection
+        meaning: snomedct:399006002
       snomedct:399011000:
-        text: snomedct:399011000
-        description: ''
         title: Axillary tail mammography view
+        meaning: snomedct:399011000
       snomedct:399012007:
-        text: snomedct:399012007
-        description: ''
         title: Medial-lateral emissive projection
+        meaning: snomedct:399012007
       snomedct:399013002:
-        text: snomedct:399013002
-        description: ''
         title: Chassard-Lapin projection
+        meaning: snomedct:399013002
       snomedct:399022001:
-        text: snomedct:399022001
-        description: ''
         title: Pirie projection
+        meaning: snomedct:399022001
       snomedct:399024000:
-        text: snomedct:399024000
-        description: ''
         title: May projection
+        meaning: snomedct:399024000
       snomedct:399025004:
-        text: snomedct:399025004
-        description: ''
         title: Ischerwood projection
+        meaning: snomedct:399025004
       snomedct:399026003:
-        text: snomedct:399026003
-        description: ''
         title: Zanelli projection
+        meaning: snomedct:399026003
       snomedct:399028002:
-        text: snomedct:399028002
-        description: ''
         title: Clements projection
+        meaning: snomedct:399028002
       snomedct:399033003:
-        text: snomedct:399033003
-        description: ''
         title: Frontal projection
+        meaning: snomedct:399033003
       snomedct:399036006:
-        text: snomedct:399036006
-        description: ''
         title: Parasternal short axis view at the mitral valve level
+        meaning: snomedct:399036006
       snomedct:399037002:
-        text: snomedct:399037002
-        description: ''
         title: Lewis projection
+        meaning: snomedct:399037002
       snomedct:399038007:
-        text: snomedct:399038007
-        description: ''
         title: Right posterior oblique projection
+        meaning: snomedct:399038007
       snomedct:399043000:
-        text: snomedct:399043000
-        description: ''
         title: Cardiac imaging views
+        meaning: snomedct:399043000
       snomedct:399059000:
-        text: snomedct:399059000
-        description: ''
         title: Postero-anterior oblique projection
+        meaning: snomedct:399059000
       snomedct:399061009:
-        text: snomedct:399061009
-        description: ''
         title: Axial projection
+        meaning: snomedct:399061009
       snomedct:399065000:
-        text: snomedct:399065000
-        description: ''
         title: Causton projection
+        meaning: snomedct:399065000
       snomedct:399067008:
-        text: snomedct:399067008
-        description: ''
         title: Lateral projection
+        meaning: snomedct:399067008
       snomedct:399071006:
-        text: snomedct:399071006
-        description: ''
         title: Plantodorsal projection
+        meaning: snomedct:399071006
       snomedct:399073009:
-        text: snomedct:399073009
-        description: ''
         title: Fuchs projection
+        meaning: snomedct:399073009
       snomedct:399074003:
-        text: snomedct:399074003
-        description: ''
         title: Left anterior oblique emissive projection
+        meaning: snomedct:399074003
       snomedct:399075002:
-        text: snomedct:399075002
-        description: ''
         title: Right posterior oblique emissive projection
+        meaning: snomedct:399075002
       snomedct:399080006:
-        text: snomedct:399080006
-        description: ''
         title: Kuchendorf projection
+        meaning: snomedct:399080006
       snomedct:399082003:
-        text: snomedct:399082003
-        description: ''
         title: Gaynor-Hart projection
+        meaning: snomedct:399082003
       snomedct:399083008:
-        text: snomedct:399083008
-        description: ''
         title: Hsieh projection
+        meaning: snomedct:399083008
       snomedct:399089007:
-        text: snomedct:399089007
-        description: ''
         title: Oblique axial emissive projection
+        meaning: snomedct:399089007
       snomedct:399098005:
-        text: snomedct:399098005
-        description: ''
         title: Staunig projection
+        meaning: snomedct:399098005
       snomedct:399099002:
-        text: snomedct:399099002
-        description: ''
         title: Latero-medial oblique projection
+        meaning: snomedct:399099002
       snomedct:399101009:
-        text: snomedct:399101009
-        description: ''
         title: Cranio-caudal projection exaggerated medially
+        meaning: snomedct:399101009
       snomedct:399103007:
-        text: snomedct:399103007
-        description: ''
         title: Friedman projection
+        meaning: snomedct:399103007
       snomedct:399106004:
-        text: snomedct:399106004
-        description: ''
         title: Suprasternal long axis view
+        meaning: snomedct:399106004
       snomedct:399108003:
-        text: snomedct:399108003
-        description: ''
         title: Right anterior oblique emissive projection
+        meaning: snomedct:399108003
       snomedct:399110001:
-        text: snomedct:399110001
-        description: ''
         title: Tangential projection
+        meaning: snomedct:399110001
       snomedct:399113004:
-        text: snomedct:399113004
-        description: ''
         title: Eponymous projection
+        meaning: snomedct:399113004
       snomedct:399118008:
-        text: snomedct:399118008
-        description: ''
         title: Left lateral emissive projection
+        meaning: snomedct:399118008
       snomedct:399125001:
-        text: snomedct:399125001
-        description: ''
         title: Twining projection
+        meaning: snomedct:399125001
       snomedct:399127009:
-        text: snomedct:399127009
-        description: ''
         title: Teufel projection
+        meaning: snomedct:399127009
       snomedct:399129007:
-        text: snomedct:399129007
-        description: ''
         title: Holly projection
+        meaning: snomedct:399129007
       snomedct:399130002:
-        text: snomedct:399130002
-        description: ''
         title: West Point projection
+        meaning: snomedct:399130002
       snomedct:399132005:
-        text: snomedct:399132005
-        description: ''
         title: Frontal-oblique axial projection
+        meaning: snomedct:399132005
       snomedct:399135007:
-        text: snomedct:399135007
-        description: ''
         title: Left anterior oblique projection
+        meaning: snomedct:399135007
       snomedct:399136008:
-        text: snomedct:399136008
-        description: ''
         title: Left posterior oblique emissive projection
+        meaning: snomedct:399136008
       snomedct:399138009:
-        text: snomedct:399138009
-        description: ''
         title: Penner projection
+        meaning: snomedct:399138009
       snomedct:399139001:
-        text: snomedct:399139001
-        description: ''
         title: Parasternal long axis view
+        meaning: snomedct:399139001
       snomedct:399142007:
-        text: snomedct:399142007
-        description: ''
         title: Albers-Schönberg projection
+        meaning: snomedct:399142007
       snomedct:399145009:
-        text: snomedct:399145009
-        description: ''
         title: Suprasternal short axis view
+        meaning: snomedct:399145009
       snomedct:399146005:
-        text: snomedct:399146005
-        description: ''
         title: Grashey projection
+        meaning: snomedct:399146005
       snomedct:399148006:
-        text: snomedct:399148006
-        description: ''
         title: Chamberlain projection
+        meaning: snomedct:399148006
       snomedct:399152006:
-        text: snomedct:399152006
-        description: ''
         title: Kandel projection
+        meaning: snomedct:399152006
       snomedct:399156009:
-        text: snomedct:399156009
-        description: ''
         title: Laquerriere-Pierquin projection
+        meaning: snomedct:399156009
       snomedct:399157000:
-        text: snomedct:399157000
-        description: ''
         title: Norgaard's projection
+        meaning: snomedct:399157000
       snomedct:399159002:
-        text: snomedct:399159002
-        description: ''
         title: Latero-medial oblique emissive projection
+        meaning: snomedct:399159002
       snomedct:399160007:
-        text: snomedct:399160007
-        description: ''
         title: Frontal oblique projection
+        meaning: snomedct:399160007
       snomedct:399161006:
-        text: snomedct:399161006
-        description: ''
         title: Cleavage mammography view
+        meaning: snomedct:399161006
       snomedct:399162004:
-        text: snomedct:399162004
-        description: ''
         title: Cranio-caudal projection
+        meaning: snomedct:399162004
       snomedct:399163009:
-        text: snomedct:399163009
-        description: ''
         title: Magnified projection
+        meaning: snomedct:399163009
       snomedct:399168000:
-        text: snomedct:399168000
-        description: ''
         title: Hough projection
+        meaning: snomedct:399168000
       snomedct:399169008:
-        text: snomedct:399169008
-        description: ''
         title: Lauenstein projection
+        meaning: snomedct:399169008
       snomedct:399171008:
-        text: snomedct:399171008
-        description: ''
         title: Ottonello projection
+        meaning: snomedct:399171008
       snomedct:399173006:
-        text: snomedct:399173006
-        description: ''
         title: Left lateral projection
+        meaning: snomedct:399173006
       snomedct:399179005:
-        text: snomedct:399179005
-        description: ''
         title: Lawrence projection
+        meaning: snomedct:399179005
       snomedct:399181007:
-        text: snomedct:399181007
-        description: ''
         title: Pawlow projection
+        meaning: snomedct:399181007
       snomedct:399182000:
-        text: snomedct:399182000
-        description: ''
         title: Oblique projection
+        meaning: snomedct:399182000
       snomedct:399184004:
-        text: snomedct:399184004
-        description: ''
         title: Left oblique projection
+        meaning: snomedct:399184004
       snomedct:399188001:
-        text: snomedct:399188001
-        description: ''
         title: Superolateral to inferomedial oblique projection
+        meaning: snomedct:399188001
       snomedct:399192008:
-        text: snomedct:399192008
-        description: ''
         title: Cranio-caudal projection exaggerated laterally
+        meaning: snomedct:399192008
       snomedct:399195005:
-        text: snomedct:399195005
-        description: ''
         title: Right ventricular outflow tract view
+        meaning: snomedct:399195005
       snomedct:399196006:
-        text: snomedct:399196006
-        description: ''
         title: Caudo-cranial projection
+        meaning: snomedct:399196006
       snomedct:399198007:
-        text: snomedct:399198007
-        description: ''
         title: Right lateral projection
+        meaning: snomedct:399198007
       snomedct:399199004:
-        text: snomedct:399199004
-        description: ''
         title: Henschen projection
+        meaning: snomedct:399199004
       snomedct:399200001:
-        text: snomedct:399200001
-        description: ''
         title: Subcostal short axis view
+        meaning: snomedct:399200001
       snomedct:399201002:
-        text: snomedct:399201002
-        description: ''
         title: Judd projection
+        meaning: snomedct:399201002
       snomedct:399206007:
-        text: snomedct:399206007
-        description: ''
         title: Law projection
+        meaning: snomedct:399206007
       snomedct:399212002:
-        text: snomedct:399212002
-        description: ''
         title: Camp-Coventry projection
+        meaning: snomedct:399212002
       snomedct:399214001:
-        text: snomedct:399214001
-        description: ''
         title: Apical four chamber view
+        meaning: snomedct:399214001
       snomedct:399215000:
-        text: snomedct:399215000
-        description: ''
         title: Wigby-Taylor projection
+        meaning: snomedct:399215000
       snomedct:399218003:
-        text: snomedct:399218003
-        description: ''
         title: Arcelin projection
+        meaning: snomedct:399218003
       snomedct:399225005:
-        text: snomedct:399225005
-        description: ''
         title: Oblique caudo-cranial projection
+        meaning: snomedct:399225005
       snomedct:399227002:
-        text: snomedct:399227002
-        description: ''
         title: Kemp Harper projection
+        meaning: snomedct:399227002
       snomedct:399232001:
-        text: snomedct:399232001
-        description: ''
         title: Apical two chamber view
+        meaning: snomedct:399232001
       snomedct:399234000:
-        text: snomedct:399234000
-        description: ''
         title: Rhese projection
+        meaning: snomedct:399234000
       snomedct:399236003:
-        text: snomedct:399236003
-        description: ''
         title: Right oblique projection
+        meaning: snomedct:399236003
       snomedct:399237007:
-        text: snomedct:399237007
-        description: ''
         title: Alexander projection
+        meaning: snomedct:399237007
       snomedct:399239005:
-        text: snomedct:399239005
-        description: ''
         title: Parasternal short axis view at the aortic valve level
+        meaning: snomedct:399239005
       snomedct:399241006:
-        text: snomedct:399241006
-        description: ''
         title: Titterington projection
+        meaning: snomedct:399241006
       snomedct:399242004:
-        text: snomedct:399242004
-        description: ''
         title: Acanthioparietal projection
+        meaning: snomedct:399242004
       snomedct:399243009:
-        text: snomedct:399243009
-        description: ''
         title: Settegast projection
+        meaning: snomedct:399243009
       snomedct:399245002:
-        text: snomedct:399245002
-        description: ''
         title: Cleaves projection
+        meaning: snomedct:399245002
       snomedct:399246001:
-        text: snomedct:399246001
-        description: ''
         title: Blackett-Healy projection
+        meaning: snomedct:399246001
       snomedct:399247005:
-        text: snomedct:399247005
-        description: ''
         title: Tarrant projection
+        meaning: snomedct:399247005
       snomedct:399251007:
-        text: snomedct:399251007
-        description: ''
         title: Lorenz projection
+        meaning: snomedct:399251007
       snomedct:399255003:
-        text: snomedct:399255003
-        description: ''
         title: Submentovertical projection
+        meaning: snomedct:399255003
       snomedct:399260004:
-        text: snomedct:399260004
-        description: ''
         title: Mediolateral projection
+        meaning: snomedct:399260004
       snomedct:399263002:
-        text: snomedct:399263002
-        description: ''
         title: Beclere projection
+        meaning: snomedct:399263002
       snomedct:399265009:
-        text: snomedct:399265009
-        description: ''
         title: Exaggerated cranio-caudal projection
+        meaning: snomedct:399265009
       snomedct:399268006:
-        text: snomedct:399268006
-        description: ''
         title: Medio-lateral oblique emissive projection
+        meaning: snomedct:399268006
       snomedct:399270002:
-        text: snomedct:399270002
-        description: ''
         title: Towne's projection
+        meaning: snomedct:399270002
       snomedct:399271003:
-        text: snomedct:399271003
-        description: ''
         title: Parasternal short axis view at the papillary muscle level
+        meaning: snomedct:399271003
       snomedct:399272005:
-        text: snomedct:399272005
-        description: ''
         title: Parietoacanthial projection
+        meaning: snomedct:399272005
       snomedct:399273000:
-        text: snomedct:399273000
-        description: ''
         title: Sagittal-oblique axial emissive projection
+        meaning: snomedct:399273000
       snomedct:399277004:
-        text: snomedct:399277004
-        description: ''
         title: Hickey projection
+        meaning: snomedct:399277004
       snomedct:399278009:
-        text: snomedct:399278009
-        description: ''
         title: Cahoon projection
+        meaning: snomedct:399278009
       snomedct:399280003:
-        text: snomedct:399280003
-        description: ''
         title: Kasabach projection
+        meaning: snomedct:399280003
       snomedct:399281004:
-        text: snomedct:399281004
-        description: ''
         title: Fleischner projection
+        meaning: snomedct:399281004
       snomedct:399284007:
-        text: snomedct:399284007
-        description: ''
         title: Merchant projection
+        meaning: snomedct:399284007
       snomedct:399285008:
-        text: snomedct:399285008
-        description: ''
         title: Holmblad projection
+        meaning: snomedct:399285008
       snomedct:399288005:
-        text: snomedct:399288005
-        description: ''
         title: Oblique cranio-caudal projection
+        meaning: snomedct:399288005
       snomedct:399290006:
-        text: snomedct:399290006
-        description: ''
         title: Schüller projection
+        meaning: snomedct:399290006
       snomedct:399292003:
-        text: snomedct:399292003
-        description: ''
         title: Stecher projection
+        meaning: snomedct:399292003
       snomedct:399296000:
-        text: snomedct:399296000
-        description: ''
         title: Taylor projection
+        meaning: snomedct:399296000
       snomedct:399297009:
-        text: snomedct:399297009
-        description: ''
         title: Right lateral emissive projection
+        meaning: snomedct:399297009
       snomedct:399300004:
-        text: snomedct:399300004
-        description: ''
         title: Lateral-medial emissive projection
+        meaning: snomedct:399300004
       snomedct:399303002:
-        text: snomedct:399303002
-        description: ''
         title: Dunlap projection
+        meaning: snomedct:399303002
       snomedct:399306005:
-        text: snomedct:399306005
-        description: ''
         title: Parasternal short axis view
+        meaning: snomedct:399306005
       snomedct:399308006:
-        text: snomedct:399308006
-        description: ''
         title: Lindblom projection
+        meaning: snomedct:399308006
       snomedct:399310008:
-        text: snomedct:399310008
-        description: ''
         title: Subcostal long axis view
+        meaning: snomedct:399310008
       snomedct:399311007:
-        text: snomedct:399311007
-        description: ''
         title: Grandy projection
+        meaning: snomedct:399311007
       snomedct:399312000:
-        text: snomedct:399312000
-        description: ''
         title: Antero-posterior oblique projection
+        meaning: snomedct:399312000
       snomedct:399313005:
-        text: snomedct:399313005
-        description: ''
         title: Swanson projection
+        meaning: snomedct:399313005
       snomedct:399316002:
-        text: snomedct:399316002
-        description: ''
         title: Parieto-orbital projection
+        meaning: snomedct:399316002
       snomedct:399318001:
-        text: snomedct:399318001
-        description: ''
         title: Kovacs projection
+        meaning: snomedct:399318001
       snomedct:399320003:
-        text: snomedct:399320003
-        description: ''
         title: Clements-Nakayama projection
+        meaning: snomedct:399320003
       snomedct:399321004:
-        text: snomedct:399321004
-        description: ''
         title: Anterior emissive projection
+        meaning: snomedct:399321004
       snomedct:399325008:
-        text: snomedct:399325008
-        description: ''
         title: Sagittal-oblique axial projection
+        meaning: snomedct:399325008
       snomedct:399327000:
-        text: snomedct:399327000
-        description: ''
         title: Low-Beer projection
+        meaning: snomedct:399327000
       snomedct:399330007:
-        text: snomedct:399330007
-        description: ''
         title: Valdini projection
+        meaning: snomedct:399330007
       snomedct:399332004:
-        text: snomedct:399332004
-        description: ''
         title: Kurzbauer projection
+        meaning: snomedct:399332004
       snomedct:399335002:
-        text: snomedct:399335002
-        description: ''
         title: Dorsoplantar projection
+        meaning: snomedct:399335002
       snomedct:399339008:
-        text: snomedct:399339008
-        description: ''
         title: Apical long axis
+        meaning: snomedct:399339008
       snomedct:399341009:
-        text: snomedct:399341009
-        description: ''
         title: Haas projection
+        meaning: snomedct:399341009
       snomedct:399342002:
-        text: snomedct:399342002
-        description: ''
         title: Lilienfeld projection
+        meaning: snomedct:399342002
       snomedct:399344001:
-        text: snomedct:399344001
-        description: ''
         title: Broden projection
+        meaning: snomedct:399344001
       snomedct:399348003:
-        text: snomedct:399348003
-        description: ''
         title: Antero-posterior projection
+        meaning: snomedct:399348003
       snomedct:399349006:
-        text: snomedct:399349006
-        description: ''
         title: Stenver's projection
+        meaning: snomedct:399349006
       snomedct:399351005:
-        text: snomedct:399351005
-        description: ''
         title: Orbito-parietal projection
+        meaning: snomedct:399351005
       snomedct:399352003:
-        text: snomedct:399352003
-        description: ''
         title: Lateral-medial projection
+        meaning: snomedct:399352003
       snomedct:399355001:
-        text: snomedct:399355001
-        description: ''
         title: Chausse projection
+        meaning: snomedct:399355001
       snomedct:399356000:
-        text: snomedct:399356000
-        description: ''
         title: Right anterior oblique projection
+        meaning: snomedct:399356000
       snomedct:399358004:
-        text: snomedct:399358004
-        description: ''
         title: Caldwell projection
+        meaning: snomedct:399358004
       snomedct:399360002:
-        text: snomedct:399360002
-        description: ''
         title: Verticosubmental projection
+        meaning: snomedct:399360002
       snomedct:399361003:
-        text: snomedct:399361003
-        description: ''
         title: Nuclear medicine projection
+        meaning: snomedct:399361003
       snomedct:399362005:
-        text: snomedct:399362005
-        description: ''
         title: Bertel projection
+        meaning: snomedct:399362005
       snomedct:399365007:
-        text: snomedct:399365007
-        description: ''
         title: Pearson projection
+        meaning: snomedct:399365007
       snomedct:399368009:
-        text: snomedct:399368009
-        description: ''
         title: Medio-lateral oblique projection
+        meaning: snomedct:399368009
       snomedct:399370000:
-        text: snomedct:399370000
-        description: ''
         title: Lysholm projection
+        meaning: snomedct:399370000
       snomedct:399371001:
-        text: snomedct:399371001
-        description: ''
         title: Parasternal short axis view at the level of the mitral chords
+        meaning: snomedct:399371001
       snomedct:399372008:
-        text: snomedct:399372008
-        description: ''
         title: Ferguson projection
+        meaning: snomedct:399372008
       snomedct:399488007:
-        text: snomedct:399488007
-        description: Midline (qualifier value)
         title: Midline (qualifier value)
+        description: Midline (qualifier value)
+        meaning: snomedct:399488007
       snomedct:408723005:
-        text: snomedct:408723005
-        description: ''
         title: Cranial LAO
+        meaning: snomedct:408723005
       snomedct:408724004:
-        text: snomedct:408724004
-        description: ''
         title: Caudal LAO
+        meaning: snomedct:408724004
       snomedct:408725003:
-        text: snomedct:408725003
-        description: ''
         title: Cranial RAO
+        meaning: snomedct:408725003
       snomedct:408726002:
-        text: snomedct:408726002
-        description: ''
         title: Caudal RAO
+        meaning: snomedct:408726002
       snomedct:421610009:
-        text: snomedct:421610009
-        description: ''
         title: Bottom
+        meaning: snomedct:421610009
       snomedct:421812003:
-        text: snomedct:421812003
-        description: ''
         title: Top
+        meaning: snomedct:421812003
       snomedct:422534007:
-        text: snomedct:422534007
-        description: ''
         title: Rafert-Long projection
+        meaning: snomedct:422534007
       snomedct:422568001:
-        text: snomedct:422568001
-        description: ''
         title: Moore projection
+        meaning: snomedct:422568001
       snomedct:422670003:
-        text: snomedct:422670003
-        description: ''
         title: Apple projection
+        meaning: snomedct:422670003
       snomedct:422795009:
-        text: snomedct:422795009
-        description: ''
         title: Neer projection
+        meaning: snomedct:422795009
       snomedct:422861003:
-        text: snomedct:422861003
-        description: ''
         title: Burman projection
+        meaning: snomedct:422861003
       snomedct:422954003:
-        text: snomedct:422954003
-        description: ''
         title: Stryker projection
+        meaning: snomedct:422954003
       snomedct:422996004:
-        text: snomedct:422996004
-        description: ''
         title: Wolf projection
+        meaning: snomedct:422996004
       snomedct:423091003:
-        text: snomedct:423091003
-        description: ''
         title: Colcher-Sussman projection
+        meaning: snomedct:423091003
       snomedct:423720000:
-        text: snomedct:423720000
-        description: ''
         title: Rafer projection
+        meaning: snomedct:423720000
       snomedct:424086005:
-        text: snomedct:424086005
-        description: ''
         title: Hirtz Modification projection
+        meaning: snomedct:424086005
       snomedct:424655003:
-        text: snomedct:424655003
-        description: ''
         title: Eraso Modification projection
+        meaning: snomedct:424655003
       snomedct:424811006:
-        text: snomedct:424811006
-        description: ''
         title: Danelius-Miller projection
+        meaning: snomedct:424811006
       snomedct:424962005:
-        text: snomedct:424962005
-        description: ''
         title: Fisk projection
+        meaning: snomedct:424962005
       snomedct:425030002:
-        text: snomedct:425030002
-        description: ''
         title: Kite projection
+        meaning: snomedct:425030002
       snomedct:425035007:
-        text: snomedct:425035007
-        description: ''
         title: Robert projection
+        meaning: snomedct:425035007
       snomedct:425042007:
-        text: snomedct:425042007
-        description: ''
         title: Rosenberg projection
+        meaning: snomedct:425042007
       snomedct:425157002:
-        text: snomedct:425157002
-        description: ''
         title: Folio projection
+        meaning: snomedct:425157002
       snomedct:425188003:
-        text: snomedct:425188003
-        description: ''
         title: Garth projection
+        meaning: snomedct:425188003
       snomedct:441505008:
-        text: snomedct:441505008
-        description: ''
         title: Dorsopalmar projection
+        meaning: snomedct:441505008
       snomedct:441555000:
-        text: snomedct:441555000
-        description: ''
         title: Inferomedial to superolateral oblique view
+        meaning: snomedct:441555000
       snomedct:441672003:
-        text: snomedct:441672003
-        description: ''
         title: Dorso-ventral projection
+        meaning: snomedct:441672003
       snomedct:441753009:
-        text: snomedct:441753009
-        description: ''
         title: Mammography view
+        meaning: snomedct:441753009
       snomedct:442361004:
-        text: snomedct:442361004
-        description: ''
         title: Stereoscopic view
+        meaning: snomedct:442361004
       snomedct:442441009:
-        text: snomedct:442441009
-        description: ''
         title: Ventro-dorsal projection
+        meaning: snomedct:442441009
       snomedct:442580003:
-        text: snomedct:442580003
-        description: ''
         title: Axillary tissue mammography view
+        meaning: snomedct:442580003
       snomedct:442581004:
-        text: snomedct:442581004
-        description: ''
         title: Nipple in profile mammography view
+        meaning: snomedct:442581004
       snomedct:442593008:
-        text: snomedct:442593008
-        description: ''
         title: Infra-mammary fold mammography view
+        meaning: snomedct:442593008
       snomedct:442594002:
-        text: snomedct:442594002
-        description: ''
         title: Right stereoscopic view
+        meaning: snomedct:442594002
       snomedct:442640004:
-        text: snomedct:442640004
-        description: ''
         title: Left stereoscopic view
+        meaning: snomedct:442640004
       snomedct:442653001:
-        text: snomedct:442653001
-        description: ''
         title: Stereoscopic view incremented from baseline
+        meaning: snomedct:442653001
       snomedct:442667005:
-        text: snomedct:442667005
-        description: ''
         title: Stereoscopic view decremented from baseline
+        meaning: snomedct:442667005
       snomedct:443082005:
-        text: snomedct:443082005
-        description: ''
         title: Parasternal long axis view of right ventricular inflow tract
+        meaning: snomedct:443082005
       snomedct:443083000:
-        text: snomedct:443083000
-        description: ''
         title: Parasternal long axis view of right ventricular outflow tract
+        meaning: snomedct:443083000
       snomedct:443100003:
-        text: snomedct:443100003
-        description: ''
         title: Subcostal view of cardiac outlets directed anteriorly
+        meaning: snomedct:443100003
       snomedct:443160001:
-        text: snomedct:443160001
-        description: ''
         title: Subcostal short axis view at papillary muscle level
+        meaning: snomedct:443160001
       snomedct:443162009:
-        text: snomedct:443162009
-        description: ''
         title: Suprasternal coronal view
+        meaning: snomedct:443162009
       snomedct:443163004:
-        text: snomedct:443163004
-        description: ''
         title: Suprasternal sagittal view
+        meaning: snomedct:443163004
       snomedct:443293000:
-        text: snomedct:443293000
-        description: ''
         title: Transgastric short axis view
+        meaning: snomedct:443293000
       snomedct:443459002:
-        text: snomedct:443459002
-        description: ''
         title: Intramedullary
+        meaning: snomedct:443459002
       snomedct:443499004:
-        text: snomedct:443499004
-        description: ''
         title: Subcostal short axis view at mitral valve level
+        meaning: snomedct:443499004
       snomedct:443500008:
-        text: snomedct:443500008
-        description: ''
         title: Subcostal short axis view at venous inflow level
+        meaning: snomedct:443500008
       snomedct:443562002:
-        text: snomedct:443562002
-        description: ''
         title: Suprasternal long axis view of aortic arch
+        meaning: snomedct:443562002
       snomedct:443609003:
-        text: snomedct:443609003
-        description: ''
         title: Subcostal short axis view at aortic valve level
+        meaning: snomedct:443609003
       snomedct:443640005:
-        text: snomedct:443640005
-        description: ''
         title: Subcostal oblique coronal view
+        meaning: snomedct:443640005
       snomedct:443662005:
-        text: snomedct:443662005
-        description: ''
         title: Transesophageal four chamber view (qualifier value)
+        meaning: snomedct:443662005
       snomedct:443698002:
-        text: snomedct:443698002
-        description: ''
         title: Transesophageal short axis view (qualifier value)
+        meaning: snomedct:443698002
       snomedct:65424008:
-        text: snomedct:65424008
-        description: ''
         title: Contiguous
+        meaning: snomedct:65424008
       snomedct:66459002:
-        text: snomedct:66459002
-        description: ''
         title: Unilateral
+        meaning: snomedct:66459002
       snomedct:72906007:
-        text: snomedct:72906007
-        description: ''
         title: Common
+        meaning: snomedct:72906007
       snomedct:741000124103:
-        text: snomedct:741000124103
-        description: ''
         title: Dorsoventral
+        meaning: snomedct:741000124103
       snomedct:761000124104:
-        text: snomedct:761000124104
-        description: ''
         title: Dorsolateral
+        meaning: snomedct:761000124104
       snomedct:771000124106:
-        text: snomedct:771000124106
-        description: ''
         title: Ventrolateral
+        meaning: snomedct:771000124106
       snomedct:781000124109:
-        text: snomedct:781000124109
-        description: ''
         title: Palmar
+        meaning: snomedct:781000124109
