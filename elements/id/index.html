@@ -291,6 +291,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../term-expansion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Term-Weaver
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../" class="md-nav__link">
         
   
@@ -486,9 +513,9 @@
 
 
 <h1 id="slot-id">Slot: id</h1>
-<p><em>A unique identifier for a thing</em></p>
+<p><em>Unique identifier</em></p>
 <div>
-<p>URI: <a href="http://schema.org/identifier">schema:identifier</a></p>
+<p>URI: <a href="https://includedcc.org/common-access-model/id">cam:id</a></p>
 <!-- no inheritance hierarchy -->
 <h2 id="applicable-classes">Applicable Classes</h2>
 <table>
@@ -501,13 +528,8 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="../NamedThing/">NamedThing</a></td>
-<td>A generic grouping for any identifiable entity</td>
-<td>no</td>
-</tr>
-<tr>
-<td><a href="../Person/">Person</a></td>
-<td>Represents a Person</td>
+<td><a href="../RequiredClass/">RequiredClass</a></td>
+<td>This is a placeholder class to satisfy the LinkML requirement of at least one...</td>
 <td>no</td>
 </tr>
 </tbody>
@@ -524,15 +546,11 @@
 <tbody>
 <tr>
 <td>Range</td>
-<td><a href="../Uriorcurie/">Uriorcurie</a></td>
+<td><a href="../String/">String</a></td>
 </tr>
 <tr>
 <td>Domain Of</td>
-<td><a href="../NamedThing/">NamedThing</a></td>
-</tr>
-<tr>
-<td>Slot URI</td>
-<td><a href="http://schema.org/identifier">schema:identifier</a></td>
+<td><a href="../RequiredClass/">RequiredClass</a></td>
 </tr>
 </tbody>
 </table>
@@ -545,10 +563,6 @@
 </tr>
 </thead>
 <tbody>
-<tr>
-<td>Required</td>
-<td>Yes</td>
-</tr>
 <tr>
 <td>### Slot Characteristics</td>
 <td></td>
@@ -564,15 +578,15 @@
 </thead>
 <tbody>
 <tr>
-<td>Identifier</td>
-<td>Yes</td>
+<td>Owner</td>
+<td><a href="../RequiredClass/">RequiredClass</a></td>
 </tr>
 </tbody>
 </table>
 <h2 id="identifier-and-mapping-information">Identifier and Mapping Information</h2>
 <h3 id="schema-source">Schema Source</h3>
 <ul>
-<li>from schema: <a href="https://w3id.org/include-dcc/cam-expanded-enums">https://w3id.org/include-dcc/cam-expanded-enums</a></li>
+<li>from schema: <a href="https://includedcc.org/cam-expanded-enums">https://includedcc.org/cam-expanded-enums</a></li>
 </ul>
 <h2 id="mappings">Mappings</h2>
 <table>
@@ -585,26 +599,24 @@
 <tbody>
 <tr>
 <td>self</td>
-<td>schema:identifier</td>
+<td>cam:id</td>
 </tr>
 <tr>
 <td>native</td>
-<td>cam_expanded_enums:id</td>
+<td>cam:id</td>
 </tr>
 </tbody>
 </table>
 <h2 id="linkml-source">LinkML Source</h2>
 <details>
 <div class="highlight"><pre><span></span><code><span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">id</span>
-<span class="nt">description</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">A unique identifier for a thing</span>
-<span class="nt">from_schema</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">https://w3id.org/include-dcc/cam-expanded-enums</span>
+<span class="nt">description</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">Unique identifier</span>
+<span class="nt">from_schema</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">https://includedcc.org/cam-expanded-enums</span>
 <span class="nt">rank</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">1000</span>
-<span class="nt">slot_uri</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">schema:identifier</span>
-<span class="nt">identifier</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">true</span>
+<span class="nt">owner</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">RequiredClass</span>
 <span class="nt">domain_of</span><span class="p">:</span>
-<span class="p p-Indicator">-</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">NamedThing</span>
-<span class="nt">range</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">uriorcurie</span>
-<span class="nt">required</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">true</span>
+<span class="p p-Indicator">-</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">RequiredClass</span>
+<span class="nt">range</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">string</span>
 </code></pre></div>
 </details>
 </div>

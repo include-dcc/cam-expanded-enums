@@ -11,7 +11,7 @@
         <link rel="canonical" href="https://include-dcc.github.io/cam-expanded-enums/elements/">
       
       
-        <link rel="prev" href="..">
+        <link rel="prev" href="../term-expansion/">
       
       
         <link rel="next" href="../about/">
@@ -78,7 +78,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#cam-expanded-enums" class="md-skip">
+        <a href="#common-access-model-expanded-enums" class="md-skip">
           Skip to content
         </a>
       
@@ -276,6 +276,33 @@
     
   
     Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../term-expansion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Term-Weaver
   
 
     
@@ -546,9 +573,9 @@
   
 
 
-<h1 id="cam-expanded-enums">cam-expanded-enums</h1>
-<p>TO DO: Yelena Cox</p>
-<p>URI: <a href="https://w3id.org/include-dcc/cam-expanded-enums">https://w3id.org/include-dcc/cam-expanded-enums</a></p>
+<h1 id="common-access-model-expanded-enums">Common Access Model Expanded Enums</h1>
+<p>LinkML Schema for the Common Access Model Expanded Enums</p>
+<p>URI: <a href="https://includedcc.org/cam-expanded-enums">https://includedcc.org/cam-expanded-enums</a></p>
 <p>Name: cam-expanded-enums</p>
 <h2 id="classes">Classes</h2>
 <table>
@@ -560,16 +587,8 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="NamedThing/">NamedThing</a></td>
-<td>A generic grouping for any identifiable entity</td>
-</tr>
-<tr>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="Person/">Person</a></td>
-<td>Represents a Person</td>
-</tr>
-<tr>
-<td><a href="PersonCollection/">PersonCollection</a></td>
-<td>A holder for Person objects</td>
+<td><a href="RequiredClass/">RequiredClass</a></td>
+<td>This is a placeholder class to satisfy the LinkML requirement of at least one...</td>
 </tr>
 </tbody>
 </table>
@@ -583,36 +602,24 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="age_in_years/">age_in_years</a></td>
-<td>Number of years since birth</td>
+<td><a href="age/">age</a></td>
+<td>Age</td>
 </tr>
 <tr>
-<td><a href="birth_date/">birth_date</a></td>
-<td>Date on which a person is born</td>
+<td><a href="aliases/">aliases</a></td>
+<td>Aliases</td>
 </tr>
 <tr>
-<td><a href="description/">description</a></td>
-<td>A human-readable description for a thing</td>
+<td><a href="full_name/">full_name</a></td>
+<td>Full name</td>
 </tr>
 <tr>
 <td><a href="id/">id</a></td>
-<td>A unique identifier for a thing</td>
+<td>Unique identifier</td>
 </tr>
 <tr>
-<td><a href="name/">name</a></td>
-<td>A human-readable name for a thing</td>
-</tr>
-<tr>
-<td><a href="people/">people</a></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="primary_email/">primary_email</a></td>
-<td>The main email address of a person</td>
-</tr>
-<tr>
-<td><a href="vital_status/">vital_status</a></td>
-<td>living or dead status</td>
+<td><a href="phone/">phone</a></td>
+<td>Phone number</td>
 </tr>
 </tbody>
 </table>
@@ -626,8 +633,104 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="PersonStatus/">PersonStatus</a></td>
-<td>The vital status of a person</td>
+<td><a href="EnumAssertionProvenance/">EnumAssertionProvenance</a></td>
+<td>Possible data sources for assertions</td>
+</tr>
+<tr>
+<td><a href="EnumAvailabilityStatus/">EnumAvailabilityStatus</a></td>
+<td>Is the biospecimen available for use?</td>
+</tr>
+<tr>
+<td><a href="EnumClinicalDataSourceType/">EnumClinicalDataSourceType</a></td>
+<td>Approaches to ascertain clinical information about a participant</td>
+</tr>
+<tr>
+<td><a href="EnumConsanguinityAssertion/">EnumConsanguinityAssertion</a></td>
+<td>Asserts known or suspected consanguinity in this study family</td>
+</tr>
+<tr>
+<td><a href="EnumDataCategory/">EnumDataCategory</a></td>
+<td>Categories of data which may be collected about participants</td>
+</tr>
+<tr>
+<td><a href="EnumDataUseModifier/">EnumDataUseModifier</a></td>
+<td>Data Use Ontology (DUO) terms for data use modifiers</td>
+</tr>
+<tr>
+<td><a href="EnumDataUsePermission/">EnumDataUsePermission</a></td>
+<td>Data Use Ontology (DUO) terms for data use permissions</td>
+</tr>
+<tr>
+<td><a href="EnumEDAMDataTypes/">EnumEDAMDataTypes</a></td>
+<td>Data types from the EDAM ontology</td>
+</tr>
+<tr>
+<td><a href="EnumEDAMFormats/">EnumEDAMFormats</a></td>
+<td>Data formats from the EDAM ontology</td>
+</tr>
+<tr>
+<td><a href="EnumEthnicity/">EnumEthnicity</a></td>
+<td>Participant ethnicity, specific to Hispanic or Latino</td>
+</tr>
+<tr>
+<td><a href="EnumFamilyType/">EnumFamilyType</a></td>
+<td>Enumerations describing research family type</td>
+</tr>
+<tr>
+<td><a href="EnumFileHashType/">EnumFileHashType</a></td>
+<td>Types of file hashes supported</td>
+</tr>
+<tr>
+<td><a href="EnumLaterality/">EnumLaterality</a></td>
+<td>Laterality information for the site</td>
+</tr>
+<tr>
+<td><a href="EnumNull/">EnumNull</a></td>
+<td>Base enumeration providing null options</td>
+</tr>
+<tr>
+<td><a href="EnumParticipantLifespanStage/">EnumParticipantLifespanStage</a></td>
+<td>Stages of life during which participants may be recruited</td>
+</tr>
+<tr>
+<td><a href="EnumProgram/">EnumProgram</a></td>
+<td>Funding programs relevant to inform operations</td>
+</tr>
+<tr>
+<td><a href="EnumRace/">EnumRace</a></td>
+<td>Participant Race</td>
+</tr>
+<tr>
+<td><a href="EnumResearchDomain/">EnumResearchDomain</a></td>
+<td>Domains of Research used to find studies</td>
+</tr>
+<tr>
+<td><a href="EnumSampleCollectionMethod/">EnumSampleCollectionMethod</a></td>
+<td>The approach used to collect the biospecimen</td>
+</tr>
+<tr>
+<td><a href="EnumSex/">EnumSex</a></td>
+<td>Subject Sex</td>
+</tr>
+<tr>
+<td><a href="EnumSite/">EnumSite</a></td>
+<td>The location of the specimen collection</td>
+</tr>
+<tr>
+<td><a href="EnumSpatialQualifiers/">EnumSpatialQualifiers</a></td>
+<td>Any spatial/location qualifiers</td>
+</tr>
+<tr>
+<td><a href="EnumStudyDesign/">EnumStudyDesign</a></td>
+<td>Approaches for collecting data, investigating interventions, and/or analyzing...</td>
+</tr>
+<tr>
+<td><a href="EnumSubjectType/">EnumSubjectType</a></td>
+<td>Types of Subject entities</td>
+</tr>
+<tr>
+<td><a href="EnumVitalStatus/">EnumVitalStatus</a></td>
+<td>Descriptions of a Subject's vital status</td>
 </tr>
 </tbody>
 </table>
@@ -769,7 +872,7 @@
     >
       
         <a
-          href=".."
+          href="../term-expansion/"
           class="md-footer__link md-footer__link--prev"
           rel="prev"
         >
@@ -781,7 +884,7 @@
               <span class="md-footer__direction">
                 Previous
               </span>
-              Home
+              Term-Weaver
             </div>
           </div>
         </a>
