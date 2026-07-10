@@ -1,5 +1,5 @@
 # cam-expanded-enums
 
-TO DO: Yelena Cox
+Materialized enumerations for the INCLUDE Common Access Model.
 
 - Auto-generated [schema documentation](elements/index.md)

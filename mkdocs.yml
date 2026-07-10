@@ -10,13 +10,13 @@ theme:
   #  primary: cyan
   features:
     - content.tabs.link
-    - header.autohide      # maximum screen space during scrolling
-    - navigation.expand    # optimize user experience
-    - navigation.instant   # optimize user experience
+    - header.autohide # maximum screen space during scrolling
+    - navigation.expand # optimize user experience
+    - navigation.instant # optimize user experience
     - navigation.instant.progress
-    - navigation.tracking  # update address bar
-    - search.suggest       # suggest good completions
-    - content.code.copy    # enable copy to clipboard
+    - navigation.tracking # update address bar
+    - search.suggest # suggest good completions
+    - content.code.copy # enable copy to clipboard
 
 # extra css/js see https://www.mkdocs.org/user-guide/customizing-your-theme/
 extra_css: []
@@ -61,6 +61,7 @@ watch:
 
 nav:
   - Home: index.md
+  - Term-Weaver: term-expansion.md
   - Schema: elements/index.md
   - About: about.md
 

@@ -1,3 +1,3 @@
 # About cam-expanded-enums
 
-TO DO: Yelena Cox
+Materialized enumerations for the INCLUDE Common Access Model.

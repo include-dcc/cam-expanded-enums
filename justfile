@@ -118,7 +118,7 @@ test: _test-schema _test-python _test-examples
 # Run linting
 [group('model development')]
 lint:
-  uv run linkml-lint {{source_schema_dir}}
+  uv run linkml-lint --config .linkml-linter.yaml {{source_schema_dir}}
 
 # Generate md documentation for the schema and add artifacts
 [group('model development')]
@@ -136,7 +136,7 @@ gen-python:
 
 # Generate project files including Python data model
 [group('model development')]
-gen-project:
+gen-project: _expand
   uv run gen-project {{config_yaml}} -d {{dest}} {{source_schema_path}}
   mkdir -p {{pymodel}}
   mv {{dest}}/*.py {{pymodel}}/
@@ -237,7 +237,7 @@ _gen-yaml:
   uv run gen-yaml {{source_schema_path}} > {{distrib_schema_path}}/{{schema_name}}.yaml
 
 # Overridable recipe to add project-specific artifacts to the distribution schema path
-_add-artifacts:
+_add-artifacts: _expand
 
 # Run documentation server
 _serve:
